@@ -1,0 +1,935 @@
+age,sexe,nivetud,qualif,freres.soeurs,relig,trav.imp,trav.satisf,hard.rock,lecture.bd,peche.chasse,cuisine,bricol,cinema,sport,heures.tv
+28,Femme,superieur,Employe,8,non croyant,peu,Insatisfaction,0,0,0,1,0,0,0,0
+59,Homme,primaire,Profession intermediaire,2,non croyant,moyen,Equilibre,0,0,0,0,0,0,1,0
+34,Homme,superieur,Profession intermediaire,1,pas pratiquant,peu,Satisfaction,0,0,0,1,1,1,1,120
+35,Femme,technique/professionnel,Employe,5,non croyant,tres,Equilibre,0,0,0,0,0,1,1,120
+47,Homme,technique/professionnel,Ouvrier,5,non croyant,peu,Insatisfaction,0,0,1,1,1,0,0,60
+28,Homme,technique/professionnel,Profession intermediaire,2,pratiquant,peu,Satisfaction,0,0,0,0,0,1,1,120
+47,Homme,secondaire,Ouvrier,4,pas pratiquant,peu,Satisfaction,0,0,0,0,1,0,1,0
+49,Femme,technique/professionnel,Employe,3,pratiquant,peu,Equilibre,0,0,0,0,0,1,0,0
+39,Femme,technique/professionnel,Ouvrier,5,pas pratiquant,peu,Satisfaction,0,0,0,0,0,1,1,162
+30,Femme,technique/professionnel,Employe,6,pas pratiquant,peu,Satisfaction,0,0,0,1,1,0,0,240
+30,Homme,technique/professionnel,Employe,2,pas pratiquant,peu,Equilibre,0,0,0,0,0,0,0,360
+37,Femme,technique/professionnel,Employe,4,pas pratiquant,peu,Satisfaction,0,0,0,1,0,1,1,0
+31,Femme,technique/professionnel,Ouvrier,1,pas pratiquant,peu,Equilibre,0,0,0,1,0,0,0,60
+35,Homme,primaire,Ouvrier,6,non croyant,peu,Equilibre,0,0,1,0,0,0,0,60
+35,Homme,technique/professionnel,Ouvrier,2,pas pratiquant,peu,Equilibre,0,0,0,0,1,0,0,240
+30,Homme,technique/professionnel,Ouvrier,1,non croyant,moyen,Satisfaction,0,0,1,1,1,1,1,180
+54,Homme,technique/professionnel,Employe,2,pas pratiquant,peu,Satisfaction,0,0,0,0,1,0,0,0
+29,Homme,technique/professionnel,Profession intermediaire,2,pas pratiquant,peu,Satisfaction,1,0,0,1,1,1,0,60
+41,Femme,primaire,Employe,3,non croyant,peu,Insatisfaction,0,0,0,0,0,1,0,240
+53,Homme,technique/professionnel,Ouvrier,0,non croyant,peu,Equilibre,0,0,0,0,1,0,1,60
+56,Homme,superieur,Cadre,1,pas pratiquant,peu,Satisfaction,0,0,0,0,1,0,0,180
+35,Homme,technique/professionnel,Ouvrier,8,non croyant,moyen,Equilibre,0,0,0,0,0,0,0,180
+40,Homme,superieur,Cadre,3,pas pratiquant,peu,Satisfaction,0,0,0,1,1,0,1,24
+39,Femme,technique/professionnel,Ouvrier,12,pratiquant,peu,Equilibre,0,0,1,1,0,0,0,180
+43,Femme,superieur,Employe,2,pratiquant,moyen,Equilibre,0,0,0,0,0,0,0,120
+34,Femme,superieur,Cadre,2,pas pratiquant,peu,Satisfaction,0,0,0,0,0,0,0,0
+54,Homme,technique/professionnel,Profession intermediaire,3,pratiquant,tres,Satisfaction,0,0,0,0,0,0,0,120
+26,Homme,superieur,Profession intermediaire,1,non croyant,peu,Insatisfaction,0,0,0,0,0,1,1,84
+23,Femme,technique/professionnel,Ouvrier,1,pratiquant,moyen,Satisfaction,0,0,0,1,0,0,0,120
+39,Homme,technique/professionnel,Ouvrier,0,non croyant,moyen,Satisfaction,0,0,0,0,1,0,0,120
+54,Homme,primaire,Ouvrier,2,pas pratiquant,peu,Satisfaction,0,0,0,0,0,0,0,240
+27,Femme,primaire,Employe,1,pratiquant,peu,Equilibre,0,0,0,1,0,1,1,120
+40,Homme,primaire,Ouvrier,2,non croyant,peu,Equilibre,0,0,0,1,1,0,0,240
+42,Homme,technique/professionnel,Ouvrier,3,non croyant,moyen,Insatisfaction,0,0,1,0,1,0,0,180
+44,Femme,primaire,Employe,8,non croyant,peu,Equilibre,0,0,1,0,1,1,1,24
+30,Homme,technique/professionnel,Ouvrier,1,pratiquant,peu,Satisfaction,0,0,0,1,0,1,0,84
+48,Homme,technique/professionnel,Ouvrier,2,non croyant,peu,Equilibre,0,0,0,0,1,0,0,60
+46,Femme,technique/professionnel,Employe,1,pratiquant,peu,Satisfaction,0,0,0,0,0,1,0,120
+33,Femme,technique/professionnel,Employe,4,non croyant,peu,Insatisfaction,0,0,0,1,1,1,0,180
+22,Femme,technique/professionnel,Employe,3,non croyant,peu,Equilibre,0,0,0,1,1,1,1,120
+41,Femme,technique/professionnel,Employe,6,non croyant,moyen,Equilibre,0,1,0,1,0,1,0,300
+34,Femme,superieur,Cadre,0,pas pratiquant,peu,Satisfaction,0,0,0,1,0,1,0,24
+59,Homme,secondaire,Cadre,2,pas pratiquant,moyen,Satisfaction,0,0,1,0,1,0,0,60
+48,Homme,superieur,Cadre,1,pratiquant,peu,Equilibre,0,0,0,0,0,1,0,36
+25,Femme,superieur,Cadre,1,pratiquant,peu,Satisfaction,0,0,0,0,0,1,1,120
+43,Homme,technique/professionnel,Ouvrier,6,pas pratiquant,peu,Equilibre,0,0,1,0,1,1,0,120
+32,Homme,secondaire,Employe,1,pas pratiquant,peu,Satisfaction,0,0,1,0,1,1,1,240
+54,Femme,superieur,Cadre,2,pratiquant,tres,Insatisfaction,0,0,0,0,1,1,0,174
+31,Homme,primaire,Ouvrier,8,non croyant,moyen,Satisfaction,0,0,0,0,1,1,0,180
+33,Homme,technique/professionnel,Profession intermediaire,1,non croyant,peu,Satisfaction,0,0,0,0,1,1,1,0
+49,Femme,superieur,Cadre,1,pratiquant,peu,Insatisfaction,0,1,0,1,0,1,1,54
+47,Homme,primaire,Ouvrier,5,pas pratiquant,moyen,Satisfaction,0,0,0,0,1,0,1,180
+52,Homme,primaire,Employe,1,pas pratiquant,moyen,Satisfaction,0,0,0,0,1,0,1,0
+56,Homme,technique/professionnel,Profession intermediaire,2,pas pratiquant,peu,Satisfaction,0,0,0,0,1,0,0,120
+54,Homme,primaire,Profession intermediaire,3,pratiquant,peu,Equilibre,0,0,0,0,0,0,0,60
+35,Femme,superieur,Profession intermediaire,4,pratiquant,peu,Satisfaction,0,0,0,0,1,1,1,18
+51,Femme,secondaire,Profession intermediaire,1,non croyant,peu,Satisfaction,0,0,0,0,0,1,0,300
+49,Femme,technique/professionnel,Ouvrier,5,non croyant,peu,Equilibre,0,0,0,0,0,0,0,360
+49,Femme,superieur,Cadre,0,pratiquant,peu,Satisfaction,0,0,0,1,0,1,0,60
+36,Homme,superieur,Cadre,2,non croyant,peu,Equilibre,0,0,0,0,0,1,1,60
+58,Homme,technique/professionnel,Profession intermediaire,2,pas pratiquant,peu,Satisfaction,0,0,0,0,0,0,0,180
+37,Homme,technique/professionnel,Ouvrier,1,non croyant,peu,Equilibre,0,0,1,0,1,0,1,180
+49,Homme,technique/professionnel,Profession intermediaire,5,non croyant,peu,Satisfaction,0,0,0,0,1,1,0,60
+55,Homme,primaire,Ouvrier,6,pas pratiquant,moyen,Insatisfaction,0,0,0,1,1,0,0,240
+51,Homme,primaire,Ouvrier,4,pas pratiquant,moyen,Satisfaction,0,0,0,0,1,0,1,180
+58,Homme,superieur,Profession intermediaire,7,pratiquant,peu,Satisfaction,0,0,0,0,1,1,0,120
+47,Homme,superieur,Profession intermediaire,4,non croyant,peu,Equilibre,0,0,0,0,0,1,1,180
+31,Homme,superieur,Profession intermediaire,2,pas pratiquant,peu,Equilibre,1,0,0,1,0,1,1,120
+42,Femme,technique/professionnel,Employe,3,pratiquant,peu,Satisfaction,0,0,0,1,0,0,1,120
+35,Femme,secondaire,Employe,3,non croyant,peu,Equilibre,0,0,0,0,0,0,0,60
+50,Homme,primaire,Employe,2,pas pratiquant,peu,Satisfaction,0,0,0,0,0,1,0,120
+40,Femme,technique/professionnel,Profession intermediaire,3,non croyant,peu,Equilibre,0,0,0,0,1,1,0,120
+50,Femme,technique/professionnel,Employe,7,pas pratiquant,peu,Equilibre,0,0,0,0,0,0,0,0
+32,Homme,technique/professionnel,Ouvrier,9,pratiquant,peu,Satisfaction,0,0,1,1,1,0,0,120
+38,Femme,secondaire,Cadre,5,pas pratiquant,peu,Equilibre,0,0,0,1,0,1,0,240
+43,Femme,secondaire,Cadre,2,pas pratiquant,moyen,Equilibre,0,0,0,1,1,1,0,18
+35,Femme,primaire,Employe,5,pas pratiquant,peu,Equilibre,0,0,0,1,0,0,1,0
+28,Homme,technique/professionnel,Employe,1,non croyant,peu,Satisfaction,0,0,0,0,0,0,1,102
+51,Homme,technique/professionnel,Ouvrier,7,pas pratiquant,moyen,Equilibre,0,0,0,0,0,0,0,180
+47,Femme,secondaire,Employe,11,pas pratiquant,peu,Equilibre,0,0,0,1,1,1,1,120
+48,Homme,secondaire,Employe,2,pas pratiquant,peu,Satisfaction,0,0,0,1,0,1,1,84
+27,Femme,superieur,Employe,3,pratiquant,moyen,Satisfaction,0,0,0,0,1,1,1,18
+38,Femme,superieur,Employe,1,non croyant,peu,Satisfaction,0,0,0,1,1,1,1,24
+39,Femme,superieur,Cadre,3,non croyant,peu,Satisfaction,0,0,0,1,1,1,1,6
+57,Homme,primaire,Ouvrier,2,pas pratiquant,moyen,Equilibre,0,0,0,0,1,0,0,180
+24,Femme,superieur,Employe,2,pas pratiquant,peu,Insatisfaction,0,0,0,1,1,1,1,240
+50,Homme,primaire,Ouvrier,18,pas pratiquant,peu,Satisfaction,0,0,0,0,0,0,0,360
+57,Femme,technique/professionnel,Employe,0,pratiquant,peu,Satisfaction,0,0,0,0,0,0,0,60
+48,Homme,technique/professionnel,Profession intermediaire,3,pas pratiquant,moyen,Equilibre,0,0,0,0,1,0,0,180
+49,Homme,primaire,Ouvrier,3,pas pratiquant,peu,Satisfaction,0,0,1,1,0,0,0,180
+52,Homme,secondaire,Ouvrier,8,pas pratiquant,peu,Insatisfaction,0,0,0,0,1,0,0,240
+54,Homme,superieur,Cadre,2,pratiquant,peu,Satisfaction,0,0,0,0,0,1,1,120
+34,Femme,technique/professionnel,Employe,7,pas pratiquant,peu,Equilibre,0,0,0,1,1,1,0,120
+38,Homme,superieur,Cadre,3,non croyant,peu,Insatisfaction,0,0,0,0,1,1,0,240
+27,Femme,technique/professionnel,Employe,3,non croyant,peu,Satisfaction,0,0,0,0,1,1,0,0
+22,Femme,technique/professionnel,Employe,1,pratiquant,peu,Satisfaction,0,0,0,1,0,1,1,180
+47,Femme,primaire,Ouvrier,6,pratiquant,peu,Equilibre,0,0,0,1,0,0,0,300
+36,Femme,technique/professionnel,Employe,1,non croyant,peu,Satisfaction,0,0,0,1,1,1,1,120
+32,Femme,technique/professionnel,Employe,1,pas pratiquant,peu,Satisfaction,0,0,0,0,1,1,1,0
+26,Homme,secondaire,Ouvrier,2,pratiquant,tres,Equilibre,0,0,0,1,1,0,0,60
+56,Femme,primaire,Employe,5,pratiquant,peu,Satisfaction,0,0,0,1,0,0,0,120
+29,Homme,technique/professionnel,Ouvrier,1,non croyant,tres,Equilibre,0,0,1,0,1,0,0,0
+43,Femme,primaire,Employe,5,non croyant,peu,Equilibre,0,0,0,1,1,1,0,18
+43,Femme,superieur,Profession intermediaire,2,pratiquant,peu,Satisfaction,0,0,0,1,1,1,1,0
+41,Femme,secondaire,Employe,1,pratiquant,peu,Equilibre,0,0,0,0,1,0,0,0
+30,Femme,technique/professionnel,Profession intermediaire,0,pas pratiquant,peu,Equilibre,0,0,0,0,1,1,0,120
+37,Homme,technique/professionnel,Profession intermediaire,5,non croyant,moyen,Equilibre,0,0,1,0,0,0,0,120
+53,Homme,superieur,Cadre,1,pratiquant,peu,Equilibre,0,0,0,0,1,1,1,6
+40,Femme,primaire,Employe,2,non croyant,peu,Equilibre,0,0,0,0,1,1,0,60
+39,Homme,superieur,Cadre,4,pas pratiquant,peu,Equilibre,0,0,0,1,1,1,1,60
+35,Femme,superieur,Profession intermediaire,3,non croyant,tres,Insatisfaction,0,0,0,1,1,0,0,120
+43,Homme,technique/professionnel,Ouvrier,5,non croyant,moyen,Equilibre,0,0,0,1,1,1,0,120
+31,Homme,superieur,Cadre,2,non croyant,moyen,Equilibre,0,0,1,0,1,1,1,60
+42,Femme,superieur,Employe,2,pas pratiquant,peu,Satisfaction,0,0,0,1,0,1,0,120
+47,Homme,technique/professionnel,Ouvrier,2,pas pratiquant,peu,Equilibre,0,0,1,0,1,1,1,120
+21,Homme,technique/professionnel,Ouvrier,2,non croyant,moyen,Satisfaction,0,0,0,0,0,1,0,120
+44,Femme,superieur,Employe,4,pratiquant,peu,Equilibre,0,0,0,0,0,1,1,0
+34,Homme,superieur,Cadre,1,pas pratiquant,moyen,Equilibre,0,0,0,0,1,1,1,60
+52,Femme,superieur,Profession intermediaire,1,pratiquant,peu,Equilibre,0,0,0,1,1,1,1,18
+41,Femme,secondaire,Employe,6,pratiquant,peu,Equilibre,0,0,0,0,0,1,1,0
+36,Femme,technique/professionnel,Ouvrier,2,pratiquant,peu,Satisfaction,0,0,0,1,0,0,0,60
+36,Homme,technique/professionnel,Ouvrier,1,non croyant,peu,Satisfaction,0,0,1,0,0,0,1,60
+38,Homme,technique/professionnel,Ouvrier,8,pratiquant,moyen,Satisfaction,0,0,0,0,0,1,0,300
+46,Femme,superieur,Profession intermediaire,1,pas pratiquant,peu,Equilibre,0,0,0,1,1,1,1,84
+54,Homme,technique/professionnel,Profession intermediaire,4,pratiquant,peu,Satisfaction,0,0,0,0,1,0,0,0
+26,Homme,superieur,Profession intermediaire,2,non croyant,moyen,Equilibre,0,0,1,1,1,1,1,174
+27,Femme,superieur,Employe,2,pratiquant,peu,Equilibre,0,0,0,1,1,1,1,60
+30,Femme,superieur,Cadre,1,pratiquant,peu,Satisfaction,0,0,0,0,0,0,1,120
+48,Femme,secondaire,Profession intermediaire,2,pas pratiquant,peu,Equilibre,0,0,0,0,0,1,1,0
+30,Homme,technique/professionnel,Ouvrier,3,non croyant,peu,Equilibre,0,0,0,1,1,0,0,60
+32,Homme,technique/professionnel,Employe,1,non croyant,peu,Satisfaction,0,0,0,1,0,0,0,300
+49,Homme,superieur,Profession intermediaire,1,non croyant,peu,Satisfaction,0,0,0,0,0,0,1,60
+47,Femme,secondaire,Employe,1,pratiquant,moyen,Satisfaction,0,0,0,0,0,0,1,0
+50,Femme,primaire,Employe,11,pratiquant,peu,Equilibre,0,0,0,1,0,0,1,180
+36,Femme,superieur,Cadre,4,pratiquant,moyen,Satisfaction,0,0,0,0,0,1,0,120
+37,Femme,technique/professionnel,Employe,1,pas pratiquant,peu,Insatisfaction,0,0,0,1,1,0,0,300
+22,Femme,superieur,Employe,1,pas pratiquant,peu,Satisfaction,0,0,0,0,1,0,0,120
+42,Homme,technique/professionnel,Ouvrier,6,pratiquant,peu,Equilibre,0,0,0,1,1,1,1,120
+39,Femme,superieur,Cadre,1,pratiquant,moyen,Satisfaction,0,1,0,0,1,0,0,42
+25,Homme,technique/professionnel,Employe,5,pas pratiquant,peu,Equilibre,0,0,0,1,0,1,0,126
+33,Femme,technique/professionnel,Employe,3,pas pratiquant,moyen,Equilibre,0,0,0,0,0,0,0,0
+36,Homme,technique/professionnel,Ouvrier,5,pas pratiquant,peu,Satisfaction,0,0,1,1,1,0,1,180
+44,Homme,superieur,Cadre,5,non croyant,peu,Equilibre,0,0,1,0,1,1,1,120
+27,Femme,superieur,Cadre,2,pas pratiquant,moyen,Equilibre,0,1,0,1,0,1,1,60
+26,Femme,superieur,Employe,1,pratiquant,peu,Satisfaction,0,0,0,1,0,1,1,84
+20,Homme,technique/professionnel,Profession intermediaire,2,pas pratiquant,moyen,Equilibre,0,0,1,1,1,1,1,120
+51,Femme,technique/professionnel,Profession intermediaire,1,pas pratiquant,peu,Insatisfaction,0,0,0,1,0,0,1,180
+57,Homme,technique/professionnel,Cadre,1,non croyant,peu,Satisfaction,0,0,0,0,0,0,0,180
+45,Homme,primaire,Cadre,0,pas pratiquant,peu,Equilibre,0,0,1,0,1,0,0,120
+39,Femme,secondaire,Employe,3,pratiquant,peu,Satisfaction,0,0,0,0,0,1,0,0
+36,Femme,technique/professionnel,Ouvrier,3,non croyant,peu,Satisfaction,0,0,0,1,1,0,1,120
+41,Femme,technique/professionnel,Employe,2,pas pratiquant,peu,Satisfaction,0,0,0,1,1,1,0,120
+50,Homme,technique/professionnel,Ouvrier,1,pratiquant,peu,Satisfaction,0,0,0,0,1,0,0,180
+52,Homme,technique/professionnel,Profession intermediaire,1,non croyant,peu,Equilibre,0,0,1,1,1,0,0,276
+42,Femme,technique/professionnel,Employe,3,pas pratiquant,peu,Equilibre,0,0,0,1,0,1,0,60
+32,Homme,technique/professionnel,Ouvrier,1,non croyant,peu,Insatisfaction,0,0,1,0,0,0,0,180
+40,Femme,secondaire,Employe,6,non croyant,peu,Equilibre,0,0,0,1,0,1,0,180
+52,Homme,secondaire,Profession intermediaire,7,pratiquant,moyen,Satisfaction,0,0,1,1,1,1,1,120
+41,Homme,technique/professionnel,Profession intermediaire,2,non croyant,peu,Satisfaction,0,0,0,0,0,1,1,60
+30,Homme,superieur,Profession intermediaire,2,pas pratiquant,peu,Insatisfaction,0,0,0,0,1,1,1,240
+29,Homme,technique/professionnel,Employe,2,pas pratiquant,peu,Equilibre,0,0,1,0,1,0,0,180
+22,Femme,technique/professionnel,Profession intermediaire,3,non croyant,peu,Equilibre,0,0,0,1,0,0,1,180
+36,Homme,primaire,Ouvrier,3,pratiquant,peu,Equilibre,0,0,0,0,0,0,0,0
+35,Homme,superieur,Employe,4,non croyant,peu,Equilibre,0,0,0,0,1,1,0,180
+36,Femme,superieur,Employe,1,pas pratiquant,peu,Insatisfaction,0,0,0,0,1,1,0,120
+22,Homme,technique/professionnel,Ouvrier,6,non croyant,peu,Satisfaction,0,0,0,0,0,1,1,300
+31,Femme,superieur,Employe,1,non croyant,tres,Equilibre,0,0,0,0,0,1,1,180
+29,Femme,superieur,Cadre,2,pratiquant,moyen,Insatisfaction,0,1,0,0,1,1,0,120
+28,Femme,superieur,Employe,2,pas pratiquant,moyen,Satisfaction,0,0,0,1,0,1,1,0
+49,Femme,secondaire,Cadre,3,pas pratiquant,moyen,Satisfaction,0,0,0,0,1,1,0,84
+50,Femme,superieur,Employe,0,non croyant,peu,Satisfaction,0,0,0,1,1,1,0,60
+22,Femme,technique/professionnel,Employe,2,pratiquant,moyen,Equilibre,0,0,1,1,1,0,1,180
+52,Femme,primaire,Employe,5,non croyant,peu,Satisfaction,0,0,0,0,0,1,0,180
+53,Femme,primaire,Ouvrier,5,pas pratiquant,peu,Equilibre,0,0,0,1,0,0,0,36
+44,Femme,superieur,Cadre,6,pas pratiquant,peu,Satisfaction,0,0,0,1,0,1,1,36
+35,Homme,technique/professionnel,Ouvrier,2,non croyant,peu,Satisfaction,0,0,0,0,1,0,0,120
+42,Homme,primaire,Ouvrier,2,non croyant,peu,Equilibre,0,0,1,0,1,0,0,120
+46,Homme,superieur,Cadre,0,pas pratiquant,peu,Equilibre,0,0,0,1,1,1,1,120
+42,Homme,technique/professionnel,Profession intermediaire,3,pratiquant,peu,Satisfaction,0,0,0,0,0,0,1,120
+35,Femme,technique/professionnel,Ouvrier,3,pratiquant,peu,Insatisfaction,0,0,0,0,0,1,0,180
+37,Femme,technique/professionnel,Employe,7,pratiquant,peu,Satisfaction,0,0,0,0,1,1,0,0
+23,Homme,technique/professionnel,Employe,4,pas pratiquant,peu,Equilibre,0,0,0,0,0,1,1,0
+39,Homme,technique/professionnel,Profession intermediaire,1,non croyant,peu,Equilibre,0,0,0,1,1,1,0,180
+39,Homme,technique/professionnel,Ouvrier,3,non croyant,moyen,Insatisfaction,0,0,1,1,1,0,1,180
+57,Homme,technique/professionnel,Profession intermediaire,0,pas pratiquant,peu,Equilibre,0,0,0,0,0,0,0,180
+57,Femme,primaire,Employe,1,pas pratiquant,peu,Satisfaction,0,0,0,1,1,1,0,0
+44,Femme,technique/professionnel,Ouvrier,1,non croyant,peu,Equilibre,0,0,0,1,0,1,0,120
+19,Homme,technique/professionnel,Ouvrier,7,pas pratiquant,peu,Equilibre,0,0,0,0,0,1,1,24
+24,Homme,superieur,Profession intermediaire,1,pas pratiquant,peu,Satisfaction,0,0,0,0,1,0,1,0
+40,Femme,technique/professionnel,Employe,4,pratiquant,moyen,Equilibre,0,0,0,0,0,0,1,0
+44,Homme,primaire,Profession intermediaire,4,non croyant,moyen,Satisfaction,0,0,1,0,0,1,0,180
+40,Femme,primaire,Profession intermediaire,3,pratiquant,peu,Satisfaction,0,0,0,1,1,1,0,60
+35,Homme,technique/professionnel,Ouvrier,3,non croyant,peu,Equilibre,0,0,0,1,1,0,1,60
+40,Femme,superieur,Cadre,3,pratiquant,peu,Insatisfaction,0,0,1,0,0,1,1,54
+36,Femme,technique/professionnel,Employe,4,non croyant,peu,Satisfaction,0,0,0,1,1,1,0,120
+34,Homme,technique/professionnel,Ouvrier,3,non croyant,moyen,Equilibre,0,0,1,0,0,0,0,60
+35,Femme,technique/professionnel,Employe,1,non croyant,peu,Insatisfaction,0,0,0,0,0,1,0,60
+39,Femme,technique/professionnel,Employe,1,pas pratiquant,moyen,Equilibre,0,0,0,1,0,1,0,240
+47,Homme,secondaire,Profession intermediaire,1,pratiquant,peu,Equilibre,0,0,0,0,1,0,1,120
+54,Femme,superieur,Cadre,1,non croyant,peu,Satisfaction,0,0,0,1,0,0,0,120
+41,Femme,superieur,Cadre,1,non croyant,peu,Equilibre,0,0,0,0,0,1,1,84
+38,Femme,secondaire,Ouvrier,2,non croyant,peu,Satisfaction,0,0,0,1,0,1,1,60
+37,Femme,superieur,Employe,2,non croyant,peu,Equilibre,0,0,0,1,1,1,1,36
+54,Femme,primaire,Employe,8,pas pratiquant,peu,Equilibre,0,0,0,1,1,0,0,180
+38,Homme,secondaire,Profession intermediaire,0,non croyant,peu,Equilibre,0,0,0,1,1,1,1,240
+40,Femme,superieur,Cadre,3,pas pratiquant,peu,Equilibre,0,0,1,0,1,1,0,42
+38,Homme,superieur,Profession intermediaire,5,pratiquant,peu,Equilibre,0,0,0,0,1,0,1,180
+39,Homme,technique/professionnel,Profession intermediaire,5,pas pratiquant,peu,Equilibre,0,0,0,0,0,1,1,66
+39,Femme,secondaire,Profession intermediaire,1,pas pratiquant,peu,Equilibre,0,0,0,1,0,1,0,120
+35,Homme,technique/professionnel,Ouvrier,2,non croyant,peu,Equilibre,0,0,0,0,0,1,0,180
+33,Homme,technique/professionnel,Profession intermediaire,1,pratiquant,peu,Equilibre,0,0,1,1,1,0,1,180
+47,Femme,primaire,Employe,6,pas pratiquant,peu,Equilibre,0,0,1,0,0,0,0,180
+62,Femme,primaire,Employe,1,non croyant,peu,Insatisfaction,0,0,0,1,1,0,0,120
+52,Homme,superieur,Cadre,2,pas pratiquant,peu,Satisfaction,0,0,1,1,1,0,0,24
+23,Femme,secondaire,Employe,4,pas pratiquant,moyen,Satisfaction,0,0,0,0,0,1,0,60
+34,Homme,superieur,Employe,9,pratiquant,peu,Equilibre,0,1,1,1,1,1,1,60
+47,Femme,technique/professionnel,Employe,1,pratiquant,peu,Equilibre,0,0,0,1,1,0,0,60
+40,Homme,secondaire,Cadre,4,pas pratiquant,peu,Equilibre,0,0,0,1,1,1,1,180
+42,Homme,technique/professionnel,Ouvrier,3,pas pratiquant,peu,Equilibre,0,0,0,0,0,0,0,0
+38,Femme,superieur,Cadre,1,pratiquant,moyen,Equilibre,0,0,0,1,0,0,1,0
+56,Homme,technique/professionnel,Ouvrier,2,pratiquant,peu,Equilibre,0,0,0,1,1,0,0,120
+44,Homme,primaire,Ouvrier,3,pas pratiquant,moyen,Equilibre,0,0,0,0,1,0,0,120
+30,Homme,superieur,Employe,8,non croyant,peu,Insatisfaction,0,0,0,1,1,1,0,180
+40,Femme,primaire,Employe,2,pas pratiquant,peu,Equilibre,0,0,0,1,1,1,1,120
+44,Femme,technique/professionnel,Employe,2,pas pratiquant,peu,Equilibre,0,0,0,0,0,0,1,180
+38,Femme,secondaire,Profession intermediaire,2,pas pratiquant,peu,Equilibre,0,0,0,1,1,1,0,180
+51,Homme,technique/professionnel,Profession intermediaire,3,pratiquant,peu,Equilibre,0,0,1,0,0,0,1,180
+35,Femme,superieur,Employe,3,non croyant,peu,Equilibre,0,0,0,1,1,0,1,120
+37,Homme,technique/professionnel,Ouvrier,4,pas pratiquant,moyen,Equilibre,0,0,0,0,1,1,0,180
+54,Femme,superieur,Profession intermediaire,2,pas pratiquant,peu,Satisfaction,0,0,0,1,1,0,1,120
+46,Homme,primaire,Ouvrier,2,pratiquant,moyen,Insatisfaction,0,0,0,1,0,0,0,180
+43,Femme,technique/professionnel,Employe,4,pratiquant,peu,Insatisfaction,0,0,0,0,0,1,0,120
+43,Homme,technique/professionnel,Profession intermediaire,3,pratiquant,peu,Satisfaction,0,0,0,0,1,0,0,180
+58,Homme,primaire,Ouvrier,4,pratiquant,moyen,Equilibre,0,0,0,0,1,0,0,120
+39,Femme,primaire,Ouvrier,9,non croyant,peu,Equilibre,0,0,0,1,1,1,0,42
+39,Homme,secondaire,Profession intermediaire,2,pratiquant,peu,Satisfaction,0,0,0,0,1,0,0,120
+56,Homme,technique/professionnel,Employe,1,pas pratiquant,moyen,Satisfaction,0,0,0,0,1,1,1,42
+46,Femme,technique/professionnel,Employe,8,non croyant,peu,Equilibre,0,0,0,0,1,1,0,60
+30,Femme,primaire,Employe,4,non croyant,peu,Equilibre,0,0,0,0,1,0,0,0
+38,Homme,technique/professionnel,Ouvrier,8,pas pratiquant,peu,Insatisfaction,0,0,0,0,0,0,0,18
+59,Homme,superieur,Cadre,7,pas pratiquant,peu,Equilibre,0,0,0,1,1,0,1,300
+30,Femme,superieur,Profession intermediaire,1,non croyant,peu,Satisfaction,0,0,0,0,0,1,1,60
+31,Homme,superieur,Cadre,1,non croyant,peu,Satisfaction,0,0,0,0,1,0,1,180
+55,Femme,technique/professionnel,Employe,4,pratiquant,peu,Equilibre,0,0,0,1,1,1,1,60
+44,Femme,primaire,Employe,3,pas pratiquant,peu,Equilibre,0,0,0,0,0,1,0,420
+22,Femme,technique/professionnel,Employe,1,non croyant,peu,Satisfaction,0,0,0,0,0,0,0,120
+41,Homme,technique/professionnel,Ouvrier,4,non croyant,peu,Equilibre,0,0,0,1,1,0,1,120
+43,Homme,technique/professionnel,Ouvrier,0,non croyant,peu,Insatisfaction,0,0,0,0,1,0,1,180
+53,Homme,primaire,Ouvrier,1,non croyant,moyen,Satisfaction,0,0,1,0,1,0,0,126
+41,Homme,superieur,Cadre,2,pas pratiquant,peu,Satisfaction,0,0,0,0,1,1,1,120
+60,Homme,superieur,Cadre,4,pratiquant,moyen,Equilibre,0,0,1,0,0,1,1,6
+38,Femme,technique/professionnel,Employe,4,pratiquant,peu,Equilibre,0,0,0,1,0,1,1,120
+35,Homme,technique/professionnel,Profession intermediaire,2,non croyant,peu,Equilibre,0,0,0,0,1,1,1,120
+39,Homme,technique/professionnel,Employe,3,pratiquant,moyen,Insatisfaction,0,0,1,1,0,1,0,120
+48,Homme,superieur,Cadre,1,pas pratiquant,peu,Equilibre,0,0,0,0,0,0,1,0
+54,Femme,primaire,Ouvrier,2,pas pratiquant,peu,Equilibre,0,0,0,0,0,0,0,0
+54,Homme,superieur,Employe,5,non croyant,peu,Satisfaction,0,0,0,0,1,1,1,120
+36,Homme,technique/professionnel,Ouvrier,2,pas pratiquant,moyen,Satisfaction,0,0,0,1,1,1,0,126
+31,Femme,secondaire,Employe,3,pas pratiquant,peu,Equilibre,0,0,0,0,1,0,0,60
+50,Homme,technique/professionnel,Cadre,6,non croyant,moyen,Satisfaction,0,0,0,0,1,1,1,0
+22,Femme,technique/professionnel,Employe,2,pas pratiquant,moyen,Equilibre,0,0,0,1,1,1,1,120
+47,Homme,superieur,Employe,4,pas pratiquant,peu,Insatisfaction,0,0,0,1,1,1,1,18
+28,Femme,technique/professionnel,Employe,0,pratiquant,moyen,Equilibre,0,0,0,1,0,0,0,300
+30,Femme,superieur,Employe,2,non croyant,peu,Satisfaction,0,0,0,1,0,1,0,240
+48,Femme,technique/professionnel,Employe,7,pas pratiquant,peu,Equilibre,0,0,0,0,0,0,0,60
+48,Femme,secondaire,Employe,9,pratiquant,peu,Equilibre,0,0,0,1,0,0,1,24
+28,Homme,technique/professionnel,Ouvrier,7,pas pratiquant,peu,Equilibre,0,0,1,1,0,1,0,240
+33,Homme,technique/professionnel,Profession intermediaire,6,pas pratiquant,moyen,Satisfaction,0,0,0,0,0,0,0,180
+31,Femme,superieur,Profession intermediaire,0,non croyant,peu,Satisfaction,0,0,0,1,0,0,0,6
+32,Homme,superieur,Cadre,6,pratiquant,peu,Satisfaction,0,0,0,1,1,1,1,6
+32,Homme,technique/professionnel,Ouvrier,3,non croyant,peu,Satisfaction,0,0,1,1,1,0,0,240
+50,Femme,superieur,Profession intermediaire,4,pratiquant,moyen,Satisfaction,0,0,0,0,0,0,0,180
+45,Homme,superieur,Cadre,2,pas pratiquant,peu,Equilibre,0,0,1,0,1,0,1,60
+50,Homme,superieur,Employe,3,pratiquant,peu,Satisfaction,0,0,0,0,1,0,0,18
+25,Homme,technique/professionnel,Ouvrier,2,non croyant,peu,Insatisfaction,0,0,1,0,1,1,0,54
+38,Femme,technique/professionnel,Profession intermediaire,6,pas pratiquant,tres,Satisfaction,0,0,0,0,0,0,0,60
+23,Femme,superieur,Cadre,2,pas pratiquant,peu,Equilibre,0,0,0,1,0,1,1,24
+38,Homme,primaire,Ouvrier,3,pratiquant,moyen,Equilibre,0,0,0,0,0,0,0,60
+48,Homme,primaire,Ouvrier,4,non croyant,moyen,Equilibre,0,0,1,0,0,0,0,174
+56,Femme,technique/professionnel,Employe,3,non croyant,moyen,Equilibre,0,0,0,0,0,1,1,36
+26,Femme,superieur,Employe,0,non croyant,peu,Satisfaction,0,0,0,1,1,0,1,60
+49,Homme,superieur,Cadre,3,pas pratiquant,peu,Equilibre,0,0,0,0,0,1,1,180
+50,Femme,superieur,Profession intermediaire,2,pas pratiquant,peu,Equilibre,0,0,0,0,1,1,1,0
+57,Femme,primaire,Employe,7,pas pratiquant,peu,Satisfaction,0,0,0,1,1,0,0,120
+33,Femme,superieur,Cadre,0,pratiquant,moyen,Satisfaction,0,0,0,0,0,0,0,54
+30,Femme,superieur,Profession intermediaire,1,non croyant,peu,Satisfaction,0,1,0,1,1,0,0,120
+39,Femme,superieur,Employe,1,non croyant,peu,Equilibre,0,0,0,1,1,1,1,60
+53,Homme,technique/professionnel,Ouvrier,2,pas pratiquant,peu,Insatisfaction,0,0,0,0,1,0,0,18
+42,Homme,superieur,Cadre,3,pratiquant,peu,Insatisfaction,0,0,0,1,0,0,1,0
+54,Femme,primaire,Profession intermediaire,2,pas pratiquant,peu,Equilibre,0,0,0,1,0,1,0,120
+28,Femme,superieur,Cadre,2,pas pratiquant,peu,Insatisfaction,0,0,0,1,0,0,1,60
+51,Femme,primaire,Employe,7,pratiquant,moyen,Satisfaction,0,0,0,1,0,1,0,180
+39,Femme,superieur,Cadre,0,pas pratiquant,moyen,Equilibre,0,0,0,1,0,1,1,54
+29,Femme,superieur,Employe,2,non croyant,peu,Equilibre,0,0,0,0,0,1,0,120
+31,Homme,superieur,Profession intermediaire,1,non croyant,peu,Satisfaction,0,0,0,1,1,1,1,60
+38,Femme,superieur,Employe,0,pas pratiquant,peu,Satisfaction,0,0,0,1,1,0,1,60
+30,Femme,superieur,Profession intermediaire,5,pas pratiquant,peu,Equilibre,0,0,0,1,1,0,1,120
+51,Homme,technique/professionnel,Profession intermediaire,3,pas pratiquant,peu,Insatisfaction,0,0,0,1,1,1,1,18
+37,Homme,technique/professionnel,Profession intermediaire,1,non croyant,moyen,Equilibre,0,0,1,1,1,1,1,120
+39,Homme,technique/professionnel,Ouvrier,5,pratiquant,moyen,Equilibre,0,0,0,1,1,1,1,18
+32,Femme,secondaire,Employe,3,non croyant,peu,Equilibre,0,0,0,0,0,0,1,60
+30,Homme,primaire,Ouvrier,4,non croyant,moyen,Equilibre,0,0,0,0,1,0,0,0
+45,Femme,technique/professionnel,Employe,2,pratiquant,peu,Satisfaction,0,0,0,0,0,0,0,120
+35,Femme,superieur,Profession intermediaire,1,non croyant,peu,Insatisfaction,0,0,0,1,1,1,0,42
+31,Femme,superieur,Cadre,1,pas pratiquant,peu,Satisfaction,0,0,0,1,1,1,1,120
+33,Femme,primaire,Ouvrier,3,non croyant,peu,Satisfaction,0,0,0,1,1,0,0,18
+49,Femme,secondaire,Employe,4,non croyant,moyen,Equilibre,0,0,0,1,1,1,0,0
+27,Homme,secondaire,Employe,2,non croyant,peu,Satisfaction,0,0,0,0,0,1,1,180
+52,Femme,superieur,Cadre,3,non croyant,peu,Satisfaction,0,0,0,0,0,1,1,60
+43,Homme,superieur,Profession intermediaire,1,pratiquant,moyen,Equilibre,0,0,0,1,1,1,1,60
+35,Homme,superieur,Profession intermediaire,2,pas pratiquant,peu,Equilibre,0,0,0,0,0,1,0,60
+36,Homme,secondaire,Ouvrier,5,non croyant,peu,Satisfaction,0,0,0,0,0,1,0,0
+44,Homme,technique/professionnel,Employe,4,pas pratiquant,peu,Satisfaction,0,0,0,0,1,1,1,240
+58,Femme,superieur,Employe,0,pratiquant,peu,Satisfaction,0,0,0,1,1,1,0,180
+51,Homme,technique/professionnel,Ouvrier,3,non croyant,peu,Satisfaction,0,0,0,0,1,0,1,0
+61,Homme,superieur,Cadre,1,non croyant,moyen,Equilibre,0,0,0,0,1,1,0,0
+55,Homme,secondaire,Cadre,4,non croyant,moyen,Satisfaction,0,0,0,1,1,1,0,6
+24,Homme,superieur,Profession intermediaire,2,pas pratiquant,moyen,Equilibre,0,0,0,1,1,1,1,60
+47,Femme,superieur,Cadre,2,pas pratiquant,moyen,Satisfaction,0,0,0,1,1,1,1,120
+36,Homme,secondaire,Employe,0,pas pratiquant,peu,Satisfaction,0,0,0,0,0,1,1,240
+49,Femme,secondaire,Profession intermediaire,1,non croyant,peu,Equilibre,0,0,0,1,0,1,0,60
+29,Femme,technique/professionnel,Employe,8,non croyant,peu,Satisfaction,0,0,0,0,0,0,0,180
+58,Femme,superieur,Cadre,2,pratiquant,peu,Satisfaction,0,0,0,0,0,1,0,0
+52,Homme,technique/professionnel,Employe,7,pas pratiquant,peu,Insatisfaction,0,0,1,0,1,0,1,60
+38,Homme,superieur,Cadre,7,pas pratiquant,peu,Equilibre,0,0,0,0,1,1,0,120
+58,Femme,technique/professionnel,Profession intermediaire,5,non croyant,peu,Insatisfaction,0,0,0,0,1,0,0,60
+40,Femme,secondaire,Profession intermediaire,1,non croyant,peu,Insatisfaction,0,0,0,1,1,0,1,180
+60,Femme,superieur,Cadre,4,pas pratiquant,moyen,Equilibre,0,0,0,0,0,1,0,0
+55,Homme,primaire,Ouvrier,13,pratiquant,peu,Equilibre,0,0,0,0,0,0,0,180
+43,Homme,primaire,Ouvrier,1,pas pratiquant,moyen,Insatisfaction,0,0,0,0,1,1,1,0
+28,Femme,superieur,Employe,2,non croyant,peu,Satisfaction,0,0,0,1,1,1,1,0
+59,Homme,superieur,Cadre,2,pas pratiquant,moyen,Satisfaction,0,0,0,0,0,0,1,60
+35,Homme,technique/professionnel,Ouvrier,5,pratiquant,moyen,Insatisfaction,0,0,0,0,1,0,1,60
+41,Femme,secondaire,Ouvrier,4,non croyant,peu,Satisfaction,0,0,0,0,0,0,1,180
+32,Homme,superieur,Cadre,0,pas pratiquant,moyen,Equilibre,0,0,0,1,1,0,0,120
+45,Homme,primaire,Ouvrier,6,pratiquant,peu,Satisfaction,0,0,1,1,0,0,0,0
+45,Femme,primaire,Employe,3,pas pratiquant,peu,Satisfaction,0,0,0,1,0,0,0,0
+40,Femme,primaire,Employe,7,pratiquant,peu,Equilibre,0,0,0,1,0,1,0,24
+47,Femme,secondaire,Profession intermediaire,4,pas pratiquant,moyen,Satisfaction,0,0,0,1,1,0,0,60
+41,Femme,primaire,Employe,9,pratiquant,moyen,Equilibre,0,0,0,0,0,0,0,300
+35,Homme,superieur,Profession intermediaire,2,non croyant,moyen,Equilibre,0,0,1,1,1,1,1,0
+29,Homme,technique/professionnel,Profession intermediaire,1,pratiquant,peu,Equilibre,0,0,0,0,1,1,1,60
+47,Homme,superieur,Cadre,3,pas pratiquant,peu,Satisfaction,0,0,0,1,1,1,0,180
+48,Homme,primaire,Ouvrier,9,pratiquant,moyen,Equilibre,0,0,0,0,0,0,1,60
+59,Homme,superieur,Cadre,3,pas pratiquant,peu,Satisfaction,0,0,0,0,0,1,1,66
+31,Homme,technique/professionnel,Ouvrier,1,pas pratiquant,peu,Equilibre,0,0,0,1,1,1,1,300
+28,Homme,primaire,Ouvrier,4,non croyant,peu,Satisfaction,0,0,0,1,0,1,0,180
+47,Femme,secondaire,Employe,4,pas pratiquant,peu,Equilibre,0,0,0,1,0,0,0,180
+30,Femme,superieur,Employe,2,pas pratiquant,peu,Equilibre,0,0,0,1,1,1,0,120
+43,Femme,technique/professionnel,Ouvrier,10,non croyant,peu,Insatisfaction,0,0,0,0,0,0,1,120
+58,Homme,technique/professionnel,Profession intermediaire,4,pratiquant,peu,Satisfaction,0,0,0,0,1,0,0,120
+32,Femme,superieur,Cadre,1,pas pratiquant,moyen,Satisfaction,0,0,0,0,0,1,1,42
+44,Homme,technique/professionnel,Ouvrier,4,pas pratiquant,peu,Satisfaction,0,0,0,1,1,1,1,180
+25,Femme,superieur,Cadre,2,pas pratiquant,peu,Satisfaction,0,0,0,0,0,1,0,120
+56,Femme,primaire,Employe,6,pratiquant,peu,Equilibre,0,0,0,1,1,0,0,180
+56,Homme,technique/professionnel,Cadre,4,pratiquant,peu,Satisfaction,0,0,1,0,1,0,0,120
+48,Homme,technique/professionnel,Profession intermediaire,1,pratiquant,peu,Satisfaction,0,0,0,0,1,1,1,180
+42,Femme,technique/professionnel,Ouvrier,4,pas pratiquant,peu,Equilibre,0,0,0,1,1,0,0,24
+30,Homme,superieur,Profession intermediaire,0,non croyant,moyen,Equilibre,0,0,1,1,1,0,1,120
+25,Homme,technique/professionnel,Employe,0,pratiquant,peu,Equilibre,0,0,1,0,1,1,1,84
+55,Femme,technique/professionnel,Employe,1,pas pratiquant,peu,Satisfaction,0,0,0,0,0,0,0,180
+45,Homme,superieur,Profession intermediaire,5,pratiquant,peu,Satisfaction,0,0,0,0,0,1,0,120
+44,Homme,superieur,Profession intermediaire,4,non croyant,peu,Equilibre,1,0,1,0,0,1,0,120
+53,Homme,primaire,Ouvrier,4,pratiquant,moyen,Equilibre,0,0,0,0,0,0,0,60
+34,Femme,technique/professionnel,Employe,1,pratiquant,peu,Satisfaction,0,0,0,0,1,1,0,180
+25,Femme,technique/professionnel,Employe,4,pratiquant,peu,Equilibre,0,0,0,0,0,1,0,0
+47,Femme,technique/professionnel,Employe,2,pas pratiquant,peu,Satisfaction,0,0,0,0,0,0,0,240
+42,Homme,technique/professionnel,Ouvrier,3,non croyant,peu,Satisfaction,0,0,1,0,1,0,0,180
+59,Femme,primaire,Ouvrier,6,pratiquant,peu,Satisfaction,0,0,0,0,0,0,0,420
+47,Femme,primaire,Employe,1,pratiquant,peu,Equilibre,0,0,0,0,1,0,0,6
+52,Femme,primaire,Profession intermediaire,2,pratiquant,peu,Equilibre,0,0,0,1,0,0,0,0
+32,Femme,superieur,Cadre,3,pratiquant,peu,Satisfaction,0,0,0,1,0,1,1,60
+53,Homme,technique/professionnel,Profession intermediaire,4,pas pratiquant,peu,Satisfaction,0,0,1,0,1,1,0,180
+45,Homme,technique/professionnel,Ouvrier,2,pratiquant,peu,Equilibre,0,0,0,1,0,0,0,120
+51,Femme,primaire,Employe,6,pratiquant,peu,Insatisfaction,0,0,0,0,0,1,0,180
+33,Homme,technique/professionnel,Ouvrier,1,pratiquant,moyen,Satisfaction,0,0,0,0,1,1,0,240
+39,Homme,superieur,Profession intermediaire,2,pas pratiquant,moyen,Satisfaction,0,0,0,0,1,0,0,180
+28,Femme,superieur,Profession intermediaire,8,pratiquant,moyen,Equilibre,0,0,0,1,1,1,1,24
+51,Homme,technique/professionnel,Profession intermediaire,6,pratiquant,moyen,Equilibre,0,0,1,0,1,0,1,60
+49,Homme,technique/professionnel,Cadre,1,pas pratiquant,peu,Equilibre,0,0,0,0,1,1,0,66
+50,Homme,superieur,Cadre,1,non croyant,moyen,Equilibre,0,0,0,0,0,1,0,0
+53,Femme,superieur,Cadre,0,pratiquant,peu,Satisfaction,0,0,1,1,0,1,0,120
+30,Homme,superieur,Ouvrier,3,pas pratiquant,peu,Equilibre,0,0,0,1,1,1,1,60
+36,Homme,primaire,Employe,4,pas pratiquant,peu,Equilibre,0,0,0,0,1,0,0,300
+30,Homme,technique/professionnel,Ouvrier,1,non croyant,peu,Equilibre,0,0,0,0,0,0,1,240
+47,Femme,technique/professionnel,Employe,3,pas pratiquant,peu,Satisfaction,0,0,0,0,0,1,0,0
+34,Femme,superieur,Employe,2,non croyant,peu,Satisfaction,0,0,0,1,1,0,0,180
+49,Homme,primaire,Ouvrier,4,pas pratiquant,peu,Equilibre,0,0,0,1,0,1,0,24
+42,Homme,technique/professionnel,Profession intermediaire,3,non croyant,peu,Equilibre,0,0,1,1,1,0,0,120
+33,Homme,primaire,Ouvrier,2,non croyant,peu,Satisfaction,0,0,0,0,0,0,0,258
+40,Homme,secondaire,Cadre,1,pas pratiquant,moyen,Equilibre,0,0,0,0,1,1,1,120
+42,Femme,superieur,Profession intermediaire,7,pratiquant,peu,Satisfaction,0,0,0,0,0,0,0,60
+26,Homme,technique/professionnel,Ouvrier,1,non croyant,peu,Equilibre,0,0,0,0,1,0,0,180
+51,Homme,superieur,Profession intermediaire,1,pratiquant,peu,Insatisfaction,0,0,0,0,0,1,0,120
+38,Femme,superieur,Employe,1,non croyant,peu,Equilibre,0,0,0,1,0,1,1,120
+37,Homme,superieur,Profession intermediaire,11,pas pratiquant,peu,Equilibre,0,0,0,1,1,1,1,66
+54,Femme,secondaire,Ouvrier,3,pratiquant,moyen,Satisfaction,0,0,0,1,1,1,0,24
+56,Homme,primaire,Ouvrier,0,pratiquant,moyen,Satisfaction,0,0,0,1,1,0,1,120
+36,Femme,primaire,Ouvrier,10,pas pratiquant,moyen,Satisfaction,0,0,0,1,0,0,0,60
+33,Femme,superieur,Profession intermediaire,2,pas pratiquant,moyen,Satisfaction,0,0,0,1,1,1,0,24
+52,Homme,primaire,Ouvrier,5,pas pratiquant,moyen,Satisfaction,0,0,0,1,1,1,0,300
+32,Homme,superieur,Employe,1,pas pratiquant,peu,Satisfaction,1,0,0,1,0,1,1,120
+31,Femme,technique/professionnel,Employe,3,non croyant,peu,Satisfaction,0,0,0,1,0,0,1,120
+51,Homme,superieur,Cadre,2,pratiquant,peu,Satisfaction,0,0,0,0,0,0,1,60
+45,Homme,technique/professionnel,Ouvrier,5,pratiquant,peu,Equilibre,0,0,0,1,1,0,0,120
+42,Homme,technique/professionnel,Ouvrier,1,non croyant,peu,Equilibre,0,0,0,1,1,1,0,240
+25,Homme,technique/professionnel,Profession intermediaire,1,pas pratiquant,peu,Satisfaction,0,0,0,0,1,0,0,0
+39,Homme,secondaire,Ouvrier,5,pas pratiquant,peu,Insatisfaction,0,0,0,1,1,1,1,120
+41,Homme,superieur,Cadre,1,non croyant,moyen,Satisfaction,0,0,0,0,1,1,0,120
+38,Homme,technique/professionnel,Ouvrier,4,pas pratiquant,moyen,Satisfaction,0,0,0,0,0,0,0,0
+54,Homme,primaire,Ouvrier,5,pratiquant,peu,Satisfaction,0,0,0,0,1,0,0,6
+51,Femme,secondaire,Employe,1,pratiquant,peu,Satisfaction,0,0,0,0,0,0,0,120
+44,Femme,primaire,Employe,13,pratiquant,peu,Satisfaction,0,0,0,1,1,1,0,60
+27,Homme,superieur,Cadre,2,non croyant,peu,Satisfaction,0,0,0,1,1,1,1,42
+33,Femme,secondaire,Cadre,1,pas pratiquant,peu,Equilibre,0,0,0,1,1,1,1,120
+43,Homme,technique/professionnel,Ouvrier,6,pas pratiquant,peu,Equilibre,0,0,0,0,1,1,1,300
+26,Homme,superieur,Employe,1,pratiquant,moyen,Satisfaction,0,0,1,1,0,1,1,180
+27,Femme,superieur,Cadre,1,pas pratiquant,moyen,Satisfaction,0,0,0,1,0,1,0,18
+26,Homme,superieur,Ouvrier,2,pas pratiquant,peu,Equilibre,0,0,1,0,0,1,1,60
+56,Homme,superieur,Cadre,7,pratiquant,peu,Equilibre,0,0,0,1,1,1,1,60
+36,Femme,technique/professionnel,Employe,3,pas pratiquant,peu,Satisfaction,0,0,0,1,1,0,1,24
+44,Homme,technique/professionnel,Ouvrier,2,pratiquant,peu,Equilibre,0,0,1,0,0,0,1,180
+56,Homme,primaire,Employe,1,pratiquant,moyen,Satisfaction,0,0,0,0,1,0,0,36
+36,Femme,technique/professionnel,Employe,8,pratiquant,peu,Equilibre,0,0,0,0,0,0,1,120
+45,Femme,superieur,Cadre,2,pratiquant,moyen,Equilibre,0,1,0,1,1,1,1,120
+30,Femme,technique/professionnel,Employe,0,pratiquant,peu,Equilibre,0,0,0,0,0,0,0,120
+41,Femme,technique/professionnel,Profession intermediaire,3,pas pratiquant,peu,Satisfaction,0,0,0,0,0,1,1,120
+36,Femme,superieur,Cadre,2,pas pratiquant,peu,Equilibre,0,0,0,0,0,1,0,60
+50,Homme,superieur,Cadre,1,non croyant,peu,Satisfaction,0,0,0,0,1,1,0,6
+52,Femme,superieur,Cadre,3,pas pratiquant,peu,Satisfaction,0,0,0,1,1,0,1,60
+50,Femme,superieur,Cadre,1,non croyant,peu,Satisfaction,0,1,0,0,0,1,0,60
+55,Femme,technique/professionnel,Employe,4,pratiquant,peu,Equilibre,0,0,0,1,1,0,1,120
+23,Femme,superieur,Profession intermediaire,2,pratiquant,peu,Satisfaction,0,0,0,0,0,1,0,0
+36,Femme,superieur,Profession intermediaire,1,non croyant,peu,Satisfaction,0,0,0,1,1,1,0,120
+46,Femme,superieur,Profession intermediaire,7,pratiquant,peu,Equilibre,0,0,0,1,1,0,1,36
+47,Femme,superieur,Employe,1,pas pratiquant,tres,Equilibre,0,0,0,1,1,0,0,240
+41,Femme,technique/professionnel,Employe,1,pratiquant,peu,Equilibre,0,0,0,0,0,0,0,0
+39,Homme,technique/professionnel,Ouvrier,1,non croyant,peu,Equilibre,0,0,0,0,1,0,0,120
+26,Femme,technique/professionnel,Employe,2,pratiquant,moyen,Satisfaction,0,0,0,0,0,0,1,120
+32,Homme,secondaire,Ouvrier,3,non croyant,peu,Satisfaction,0,0,1,1,1,0,0,120
+34,Femme,superieur,Employe,3,pratiquant,peu,Equilibre,0,0,0,1,0,1,0,120
+40,Homme,superieur,Profession intermediaire,2,non croyant,peu,Equilibre,0,0,0,1,1,1,1,174
+48,Femme,superieur,Profession intermediaire,0,pas pratiquant,peu,Equilibre,0,0,0,1,0,1,1,0
+40,Femme,technique/professionnel,Employe,1,pratiquant,peu,Equilibre,0,0,0,0,0,0,0,240
+35,Homme,technique/professionnel,Ouvrier,7,non croyant,peu,Equilibre,0,0,0,0,0,1,0,180
+45,Femme,primaire,Employe,13,pratiquant,peu,Equilibre,0,0,0,0,0,0,0,120
+30,Homme,technique/professionnel,Profession intermediaire,1,pas pratiquant,peu,Insatisfaction,0,0,1,0,1,0,1,60
+50,Homme,technique/professionnel,Employe,3,pratiquant,peu,Insatisfaction,0,0,1,1,1,0,1,60
+28,Femme,superieur,Employe,2,pas pratiquant,peu,Satisfaction,0,0,0,1,0,1,0,120
+34,Femme,secondaire,Cadre,1,non croyant,moyen,Satisfaction,0,1,0,0,0,0,1,300
+37,Homme,primaire,Ouvrier,4,pas pratiquant,peu,Satisfaction,0,0,0,0,1,0,0,60
+48,Homme,primaire,Ouvrier,2,pas pratiquant,peu,Equilibre,0,0,0,1,0,0,1,240
+39,Homme,primaire,Ouvrier,7,pas pratiquant,peu,Equilibre,0,0,1,1,0,0,0,120
+43,Homme,technique/professionnel,Profession intermediaire,7,pratiquant,peu,Satisfaction,0,0,0,0,0,1,0,120
+31,Femme,superieur,Employe,3,pas pratiquant,moyen,Satisfaction,0,0,0,1,0,1,1,180
+40,Homme,superieur,Profession intermediaire,7,pas pratiquant,moyen,Equilibre,0,0,0,0,1,0,0,18
+48,Femme,secondaire,Employe,11,non croyant,peu,Equilibre,0,0,0,1,0,1,0,120
+53,Homme,primaire,Ouvrier,8,pratiquant,peu,Satisfaction,0,0,0,0,0,0,0,180
+54,Homme,technique/professionnel,Ouvrier,2,pas pratiquant,moyen,Equilibre,0,0,0,1,0,0,0,120
+33,Homme,technique/professionnel,Cadre,5,pratiquant,tres,Satisfaction,0,0,0,0,0,1,1,0
+28,Homme,technique/professionnel,Profession intermediaire,1,non croyant,peu,Insatisfaction,0,0,0,0,0,0,0,180
+33,Homme,technique/professionnel,Employe,4,non croyant,peu,Insatisfaction,0,0,0,1,0,0,1,240
+20,Femme,technique/professionnel,Employe,2,non croyant,peu,Insatisfaction,0,0,0,0,0,0,1,0
+35,Homme,technique/professionnel,Ouvrier,0,pas pratiquant,peu,Satisfaction,0,0,0,0,1,1,1,180
+31,Femme,superieur,Employe,2,non croyant,peu,Satisfaction,0,0,0,0,0,0,0,0
+53,Homme,primaire,Profession intermediaire,5,pas pratiquant,peu,Insatisfaction,0,0,0,0,0,0,1,120
+53,Homme,secondaire,Cadre,0,non croyant,peu,Insatisfaction,0,0,0,0,0,0,1,0
+46,Homme,technique/professionnel,Ouvrier,4,pas pratiquant,peu,Insatisfaction,0,0,1,0,1,1,0,180
+32,Homme,technique/professionnel,Employe,3,non croyant,peu,Equilibre,0,0,0,0,0,1,0,120
+32,Femme,technique/professionnel,Employe,0,pratiquant,peu,Satisfaction,0,0,0,0,1,1,0,120
+53,Femme,primaire,Profession intermediaire,1,pas pratiquant,peu,Satisfaction,0,0,0,0,0,1,0,60
+39,Femme,superieur,Cadre,1,pas pratiquant,moyen,Satisfaction,0,0,0,1,0,1,1,120
+34,Homme,technique/professionnel,Ouvrier,6,pratiquant,peu,Equilibre,0,0,1,0,0,1,1,60
+42,Femme,secondaire,Employe,2,pas pratiquant,peu,Equilibre,0,0,0,0,1,1,1,120
+42,Femme,secondaire,Profession intermediaire,0,pas pratiquant,moyen,Satisfaction,0,0,0,0,1,0,0,0
+27,Femme,technique/professionnel,Employe,8,pratiquant,peu,Satisfaction,0,0,0,1,0,1,0,0
+31,Femme,technique/professionnel,Ouvrier,2,pas pratiquant,peu,Equilibre,0,0,0,1,0,0,1,120
+55,Homme,technique/professionnel,Profession intermediaire,5,pas pratiquant,peu,Equilibre,0,0,0,0,1,1,0,180
+46,Femme,primaire,Ouvrier,7,pas pratiquant,moyen,Equilibre,0,0,0,1,1,0,0,0
+38,Femme,primaire,Employe,7,non croyant,moyen,Satisfaction,0,0,0,0,0,1,1,84
+51,Femme,secondaire,Employe,1,non croyant,peu,Satisfaction,0,0,0,1,0,0,0,120
+36,Homme,technique/professionnel,Cadre,1,non croyant,moyen,Satisfaction,0,0,0,1,1,1,1,60
+31,Homme,superieur,Cadre,1,pas pratiquant,peu,Equilibre,0,0,0,1,1,1,1,54
+28,Homme,technique/professionnel,Employe,1,pas pratiquant,peu,Satisfaction,0,0,1,1,1,0,0,180
+46,Homme,technique/professionnel,Profession intermediaire,2,pas pratiquant,peu,Satisfaction,0,0,1,1,1,0,0,120
+45,Femme,technique/professionnel,Employe,1,pratiquant,peu,Satisfaction,0,0,0,1,1,0,0,120
+56,Femme,superieur,Employe,2,pratiquant,peu,Equilibre,0,0,0,0,1,1,1,120
+33,Femme,superieur,Profession intermediaire,2,pratiquant,moyen,Satisfaction,0,0,0,1,0,1,0,180
+55,Homme,technique/professionnel,Profession intermediaire,1,pas pratiquant,peu,Equilibre,0,0,0,0,0,0,0,240
+56,Femme,secondaire,Cadre,2,pratiquant,tres,Satisfaction,0,0,0,1,0,1,0,60
+31,Femme,superieur,Employe,4,non croyant,peu,Satisfaction,0,0,0,0,0,1,1,60
+29,Femme,technique/professionnel,Profession intermediaire,1,pratiquant,peu,Insatisfaction,0,0,0,1,0,0,1,0
+59,Femme,primaire,Employe,7,pratiquant,peu,Satisfaction,0,0,0,1,0,1,0,120
+39,Femme,superieur,Profession intermediaire,1,pratiquant,peu,Satisfaction,0,0,0,0,1,1,1,24
+24,Femme,technique/professionnel,Employe,2,pas pratiquant,peu,Equilibre,0,0,0,0,0,1,1,60
+44,Femme,technique/professionnel,Cadre,1,non croyant,peu,Equilibre,0,0,0,0,0,0,0,0
+55,Femme,superieur,Employe,2,pas pratiquant,peu,Equilibre,0,0,0,1,1,1,0,102
+37,Femme,superieur,Cadre,1,pas pratiquant,moyen,Satisfaction,0,0,0,1,0,1,1,240
+50,Femme,technique/professionnel,Cadre,1,pratiquant,peu,Equilibre,0,0,0,1,1,1,0,42
+48,Homme,technique/professionnel,Profession intermediaire,3,pas pratiquant,peu,Equilibre,0,0,0,0,0,1,1,120
+21,Homme,technique/professionnel,Ouvrier,2,pratiquant,peu,Equilibre,0,0,0,0,1,1,1,120
+30,Homme,technique/professionnel,Ouvrier,5,non croyant,moyen,Equilibre,0,0,0,0,1,1,0,180
+50,Femme,primaire,Ouvrier,8,pas pratiquant,peu,Satisfaction,0,0,1,1,1,0,0,180
+36,Homme,technique/professionnel,Profession intermediaire,1,pratiquant,peu,Satisfaction,0,0,0,0,1,0,1,120
+43,Femme,superieur,Cadre,3,pas pratiquant,moyen,Satisfaction,0,0,0,1,0,1,1,18
+25,Femme,technique/professionnel,Employe,3,pratiquant,peu,Equilibre,0,0,0,1,1,1,1,60
+42,Femme,superieur,Profession intermediaire,1,non croyant,moyen,Insatisfaction,0,0,0,0,1,0,1,0
+26,Homme,technique/professionnel,Employe,0,pas pratiquant,peu,Equilibre,1,0,1,1,1,1,1,240
+46,Femme,primaire,Employe,5,pratiquant,peu,Satisfaction,0,0,0,1,0,0,0,120
+41,Homme,superieur,Profession intermediaire,4,non croyant,peu,Satisfaction,0,0,0,0,0,1,1,84
+31,Homme,primaire,Ouvrier,5,non croyant,peu,Equilibre,0,0,0,1,0,0,0,180
+53,Femme,primaire,Ouvrier,13,pas pratiquant,peu,Insatisfaction,0,0,0,0,0,0,1,60
+48,Homme,superieur,Cadre,1,pratiquant,moyen,Satisfaction,0,1,0,0,1,1,1,6
+40,Femme,secondaire,Employe,2,non croyant,peu,Equilibre,0,0,0,1,0,0,1,60
+33,Femme,technique/professionnel,Employe,3,pas pratiquant,peu,Equilibre,0,0,0,0,1,0,0,180
+24,Homme,technique/professionnel,Ouvrier,2,non croyant,peu,Insatisfaction,0,0,0,1,1,1,1,120
+50,Femme,superieur,Profession intermediaire,0,pratiquant,moyen,Satisfaction,0,0,0,1,0,0,1,120
+28,Homme,technique/professionnel,Ouvrier,1,pas pratiquant,moyen,Equilibre,0,0,1,1,1,0,0,120
+37,Femme,technique/professionnel,Employe,1,non croyant,peu,Equilibre,0,0,0,1,1,1,0,120
+56,Homme,technique/professionnel,Ouvrier,9,pas pratiquant,moyen,Insatisfaction,0,0,0,1,1,0,0,180
+37,Femme,superieur,Employe,4,non croyant,moyen,Satisfaction,0,0,0,1,1,1,0,24
+38,Femme,secondaire,Employe,2,pas pratiquant,peu,Equilibre,0,0,0,1,1,1,0,60
+34,Femme,technique/professionnel,Ouvrier,1,non croyant,peu,Satisfaction,0,0,1,0,1,0,0,180
+40,Femme,technique/professionnel,Profession intermediaire,2,non croyant,peu,Satisfaction,0,0,0,0,0,1,0,180
+27,Femme,superieur,Cadre,3,pas pratiquant,peu,Satisfaction,0,0,0,0,0,1,1,60
+31,Femme,superieur,Cadre,2,pas pratiquant,peu,Satisfaction,0,0,0,1,1,1,1,180
+24,Femme,technique/professionnel,Employe,1,pratiquant,peu,Equilibre,0,0,0,1,1,1,0,60
+31,Femme,secondaire,Employe,1,pas pratiquant,peu,Satisfaction,0,0,0,0,0,1,1,0
+56,Femme,secondaire,Profession intermediaire,5,pratiquant,peu,Satisfaction,0,0,0,1,0,1,0,120
+59,Homme,superieur,Cadre,9,pas pratiquant,moyen,Satisfaction,0,0,0,0,0,0,0,120
+20,Femme,technique/professionnel,Employe,5,pas pratiquant,peu,Satisfaction,0,0,0,0,0,1,0,180
+31,Homme,secondaire,Cadre,2,non croyant,moyen,Equilibre,0,0,1,0,1,0,0,0
+39,Homme,secondaire,Profession intermediaire,0,non croyant,peu,Equilibre,0,0,0,1,1,0,1,120
+40,Femme,technique/professionnel,Cadre,8,non croyant,moyen,Satisfaction,0,1,0,1,0,0,0,180
+48,Homme,primaire,Ouvrier,3,pratiquant,moyen,Equilibre,0,0,0,1,0,0,0,240
+38,Homme,superieur,Cadre,1,pas pratiquant,moyen,Satisfaction,0,0,0,1,1,1,1,24
+56,Femme,technique/professionnel,Profession intermediaire,1,pas pratiquant,peu,Equilibre,0,0,0,0,0,0,0,180
+50,Homme,superieur,Cadre,3,pas pratiquant,moyen,Satisfaction,0,0,0,0,0,0,1,60
+55,Femme,superieur,Employe,4,non croyant,peu,Equilibre,0,0,0,1,1,0,0,120
+50,Femme,secondaire,Profession intermediaire,3,non croyant,peu,Satisfaction,0,0,0,0,1,1,0,0
+50,Homme,primaire,Employe,7,pas pratiquant,peu,Equilibre,0,0,0,0,0,1,1,180
+49,Homme,superieur,Cadre,2,pratiquant,moyen,Satisfaction,0,0,0,0,1,1,1,6
+35,Homme,superieur,Cadre,11,non croyant,peu,Satisfaction,0,0,0,1,0,1,1,120
+33,Homme,superieur,Cadre,5,non croyant,peu,Satisfaction,0,1,1,0,1,1,0,120
+51,Femme,superieur,Profession intermediaire,2,non croyant,moyen,Satisfaction,0,0,0,1,0,0,0,60
+23,Femme,technique/professionnel,Ouvrier,1,pas pratiquant,peu,Equilibre,0,0,0,1,0,1,0,180
+26,Femme,superieur,Cadre,3,pratiquant,peu,Equilibre,0,0,0,1,1,1,1,60
+44,Homme,primaire,Ouvrier,11,pas pratiquant,moyen,Insatisfaction,0,0,0,0,1,0,0,0
+18,Homme,technique/professionnel,Ouvrier,1,pas pratiquant,peu,Equilibre,0,0,0,0,0,1,0,300
+54,Femme,technique/professionnel,Employe,1,pratiquant,peu,Satisfaction,0,0,0,1,0,0,1,240
+46,Homme,primaire,Ouvrier,11,non croyant,moyen,Satisfaction,0,0,1,1,1,0,0,60
+48,Femme,superieur,Cadre,5,non croyant,moyen,Satisfaction,0,1,0,1,1,1,1,180
+50,Femme,technique/professionnel,Employe,1,pratiquant,peu,Equilibre,0,0,0,0,1,1,0,240
+25,Femme,superieur,Employe,1,pratiquant,peu,Equilibre,0,0,0,1,1,1,1,24
+25,Homme,superieur,Cadre,5,pas pratiquant,tres,Satisfaction,0,0,0,0,1,1,1,24
+49,Femme,technique/professionnel,Employe,4,pratiquant,moyen,Satisfaction,0,0,0,1,1,0,0,60
+28,Femme,superieur,Profession intermediaire,0,pas pratiquant,peu,Satisfaction,0,0,0,0,0,1,1,0
+37,Homme,superieur,Profession intermediaire,3,non croyant,peu,Equilibre,0,0,0,1,1,1,1,60
+47,Femme,technique/professionnel,Profession intermediaire,4,pratiquant,peu,Satisfaction,0,0,1,0,0,0,0,60
+42,Homme,superieur,Profession intermediaire,2,non croyant,moyen,Satisfaction,0,0,0,0,0,1,0,0
+44,Homme,secondaire,Employe,5,pas pratiquant,moyen,Satisfaction,0,0,0,0,0,1,0,120
+53,Femme,secondaire,Cadre,1,pas pratiquant,peu,Equilibre,0,0,0,1,0,1,1,120
+36,Femme,technique/professionnel,Employe,6,pas pratiquant,peu,Equilibre,0,0,0,0,0,0,1,420
+27,Femme,technique/professionnel,Ouvrier,3,pas pratiquant,peu,Satisfaction,0,0,0,0,0,0,0,120
+21,Homme,technique/professionnel,Ouvrier,2,pas pratiquant,peu,Equilibre,0,0,0,0,1,1,0,120
+37,Homme,technique/professionnel,Cadre,4,non croyant,peu,Satisfaction,0,0,0,0,1,1,1,120
+44,Femme,primaire,Employe,1,pas pratiquant,peu,Satisfaction,0,0,0,1,1,1,0,0
+29,Homme,superieur,Profession intermediaire,2,pratiquant,moyen,Satisfaction,0,0,0,1,0,1,1,120
+30,Femme,primaire,Employe,2,pas pratiquant,peu,Satisfaction,0,0,0,1,0,1,0,300
+33,Femme,superieur,Employe,2,pratiquant,peu,Satisfaction,0,0,0,0,0,0,1,180
+45,Femme,technique/professionnel,Employe,1,pratiquant,peu,Satisfaction,0,0,0,0,0,1,1,24
+53,Femme,primaire,Employe,11,pratiquant,peu,Insatisfaction,0,0,0,0,0,0,0,180
+46,Femme,superieur,Profession intermediaire,1,pratiquant,peu,Equilibre,0,0,0,0,0,1,1,0
+48,Femme,primaire,Ouvrier,8,non croyant,peu,Insatisfaction,0,0,0,1,0,0,0,60
+49,Femme,secondaire,Profession intermediaire,0,pas pratiquant,peu,Equilibre,0,0,0,0,0,0,0,120
+37,Homme,technique/professionnel,Ouvrier,4,pas pratiquant,peu,Satisfaction,0,0,0,0,1,1,0,60
+55,Femme,primaire,Employe,5,non croyant,peu,Satisfaction,0,0,1,0,1,1,1,240
+30,Homme,technique/professionnel,Ouvrier,3,pas pratiquant,peu,Satisfaction,0,0,1,1,1,1,1,300
+26,Homme,technique/professionnel,Employe,1,non croyant,peu,Equilibre,0,0,0,1,0,1,1,240
+45,Femme,primaire,Ouvrier,4,non croyant,peu,Equilibre,0,0,0,0,0,1,0,60
+41,Femme,primaire,Employe,4,pratiquant,peu,Equilibre,0,0,0,1,0,1,0,120
+44,Femme,primaire,Profession intermediaire,5,pratiquant,tres,Satisfaction,0,0,0,0,0,0,0,60
+56,Homme,primaire,Ouvrier,12,pas pratiquant,peu,Equilibre,0,0,0,0,0,0,0,60
+31,Homme,superieur,Profession intermediaire,2,non croyant,moyen,Satisfaction,0,0,0,0,0,0,1,120
+43,Femme,superieur,Profession intermediaire,4,pas pratiquant,peu,Satisfaction,0,0,0,1,1,1,1,120
+30,Femme,superieur,Cadre,0,pas pratiquant,moyen,Equilibre,0,0,0,0,1,1,1,60
+34,Femme,superieur,Employe,2,non croyant,peu,Equilibre,0,0,0,1,0,0,1,180
+45,Femme,superieur,Employe,1,pas pratiquant,peu,Satisfaction,0,0,0,0,0,0,0,120
+47,Homme,technique/professionnel,Ouvrier,3,pas pratiquant,moyen,Equilibre,0,0,0,1,0,0,1,120
+53,Femme,secondaire,Cadre,2,pratiquant,peu,Equilibre,0,0,0,1,1,1,1,120
+45,Homme,primaire,Ouvrier,7,pas pratiquant,moyen,Insatisfaction,0,0,0,0,1,0,0,300
+26,Homme,superieur,Profession intermediaire,1,non croyant,moyen,Insatisfaction,0,0,0,1,1,1,1,120
+39,Femme,secondaire,Employe,1,pas pratiquant,peu,Insatisfaction,0,0,0,1,0,1,1,120
+49,Homme,technique/professionnel,Employe,4,pratiquant,moyen,Equilibre,0,0,0,0,1,0,0,60
+21,Homme,technique/professionnel,Employe,3,non croyant,peu,Satisfaction,0,0,0,1,1,1,1,180
+58,Homme,superieur,Cadre,2,pas pratiquant,peu,Satisfaction,0,0,0,0,0,0,1,60
+45,Femme,primaire,Employe,8,non croyant,peu,Insatisfaction,0,0,0,0,1,1,0,180
+33,Homme,superieur,Cadre,1,pas pratiquant,peu,Equilibre,0,0,0,0,0,1,0,120
+23,Homme,secondaire,Ouvrier,2,pratiquant,peu,Insatisfaction,0,0,0,0,1,1,1,120
+34,Femme,superieur,Employe,1,pas pratiquant,peu,Equilibre,0,0,0,0,1,1,1,126
+35,Femme,superieur,Cadre,3,non croyant,peu,Insatisfaction,0,0,0,1,0,1,0,102
+41,Homme,technique/professionnel,Ouvrier,11,non croyant,peu,Insatisfaction,0,0,0,0,0,0,1,240
+24,Homme,primaire,Ouvrier,1,pratiquant,peu,Satisfaction,0,0,0,0,0,1,0,240
+33,Homme,superieur,Profession intermediaire,1,pas pratiquant,peu,Satisfaction,0,0,0,0,1,0,1,120
+52,Femme,superieur,Profession intermediaire,2,pas pratiquant,peu,Equilibre,0,0,1,0,0,0,1,120
+50,Femme,secondaire,Employe,1,pas pratiquant,peu,Equilibre,0,0,0,1,0,0,0,120
+37,Femme,secondaire,Employe,0,pratiquant,peu,Satisfaction,0,0,1,0,0,0,0,180
+26,Homme,primaire,Ouvrier,3,non croyant,peu,Insatisfaction,0,0,0,0,0,0,1,180
+33,Homme,secondaire,Cadre,2,non croyant,peu,Equilibre,0,0,0,0,1,1,1,54
+55,Homme,technique/professionnel,Profession intermediaire,1,pas pratiquant,peu,Equilibre,0,0,0,0,1,0,0,120
+19,Femme,technique/professionnel,Employe,2,pratiquant,moyen,Insatisfaction,0,0,0,1,0,1,1,120
+31,Homme,superieur,Cadre,1,pas pratiquant,moyen,Equilibre,0,0,0,1,1,1,1,60
+48,Femme,primaire,Employe,3,pratiquant,moyen,Satisfaction,0,0,0,0,0,0,0,6
+46,Homme,superieur,Cadre,2,pratiquant,peu,Satisfaction,0,0,0,0,1,1,0,0
+39,Homme,technique/professionnel,Employe,0,non croyant,peu,Equilibre,0,0,0,1,0,1,0,120
+47,Homme,superieur,Cadre,1,pratiquant,moyen,Equilibre,0,0,0,1,1,0,0,60
+47,Femme,technique/professionnel,Cadre,1,non croyant,peu,Equilibre,0,1,1,0,1,1,1,180
+42,Femme,primaire,Employe,2,pratiquant,peu,Equilibre,0,0,0,0,0,0,0,300
+45,Femme,technique/professionnel,Employe,1,pas pratiquant,moyen,Satisfaction,0,0,0,0,0,0,0,120
+39,Femme,secondaire,Profession intermediaire,1,pratiquant,peu,Satisfaction,0,0,0,0,1,1,1,120
+56,Femme,primaire,Employe,4,pratiquant,peu,Equilibre,0,0,0,0,0,1,0,180
+46,Femme,primaire,Employe,4,non croyant,moyen,Insatisfaction,0,0,0,0,0,1,1,180
+42,Homme,technique/professionnel,Ouvrier,7,non croyant,peu,Equilibre,0,0,0,0,1,1,0,120
+47,Homme,secondaire,Profession intermediaire,8,non croyant,peu,Equilibre,0,0,0,0,1,1,1,180
+30,Homme,superieur,Cadre,2,pratiquant,moyen,Satisfaction,0,0,0,1,1,1,1,60
+40,Femme,technique/professionnel,Profession intermediaire,5,pas pratiquant,peu,Equilibre,0,0,0,0,1,0,0,120
+49,Homme,primaire,Employe,3,pas pratiquant,peu,Satisfaction,0,0,0,0,0,1,1,60
+34,Femme,secondaire,Employe,1,non croyant,peu,Satisfaction,0,0,0,1,0,1,1,60
+38,Homme,secondaire,Cadre,1,pas pratiquant,peu,Satisfaction,0,0,0,1,1,1,1,24
+19,Femme,technique/professionnel,Employe,1,non croyant,peu,Equilibre,1,0,0,1,0,1,0,240
+47,Femme,primaire,Ouvrier,11,pratiquant,moyen,Satisfaction,0,0,0,0,0,0,0,120
+34,Homme,technique/professionnel,Ouvrier,4,pas pratiquant,peu,Equilibre,0,0,0,1,1,1,0,120
+42,Femme,technique/professionnel,Employe,3,pas pratiquant,moyen,Satisfaction,0,0,0,0,0,1,0,120
+38,Femme,technique/professionnel,Cadre,5,pas pratiquant,peu,Equilibre,0,0,0,1,1,0,1,42
+50,Homme,primaire,Ouvrier,0,non croyant,peu,Satisfaction,0,0,0,0,0,0,0,120
+40,Femme,technique/professionnel,Employe,1,pas pratiquant,peu,Satisfaction,0,0,0,1,0,1,0,120
+37,Homme,technique/professionnel,Employe,2,pas pratiquant,moyen,Satisfaction,0,0,0,1,1,0,0,180
+26,Homme,technique/professionnel,Ouvrier,2,pas pratiquant,peu,Equilibre,0,0,0,0,1,0,1,180
+36,Homme,superieur,Cadre,1,pas pratiquant,peu,Satisfaction,0,0,0,0,1,1,1,240
+33,Femme,technique/professionnel,Employe,4,pratiquant,peu,Satisfaction,0,0,0,1,0,0,0,120
+59,Femme,primaire,Employe,6,pas pratiquant,moyen,Equilibre,0,0,1,1,0,1,0,180
+47,Femme,technique/professionnel,Profession intermediaire,4,non croyant,peu,Satisfaction,0,0,0,0,1,1,0,60
+27,Homme,technique/professionnel,Ouvrier,3,pas pratiquant,tres,Satisfaction,0,0,0,0,0,0,1,0
+34,Homme,technique/professionnel,Employe,2,pas pratiquant,moyen,Satisfaction,0,0,0,0,1,1,0,120
+53,Femme,technique/professionnel,Profession intermediaire,2,pas pratiquant,peu,Satisfaction,0,0,0,1,0,0,0,180
+45,Femme,secondaire,Employe,2,pratiquant,peu,Satisfaction,0,0,0,1,0,1,0,120
+26,Femme,primaire,Ouvrier,3,pratiquant,peu,Insatisfaction,0,0,0,0,0,1,0,180
+26,Femme,superieur,Cadre,2,pratiquant,peu,Satisfaction,0,0,0,1,1,1,1,60
+35,Femme,superieur,Employe,1,pratiquant,moyen,Insatisfaction,0,0,0,1,1,1,1,66
+42,Femme,technique/professionnel,Profession intermediaire,1,pas pratiquant,peu,Insatisfaction,0,0,0,1,0,1,1,24
+30,Homme,superieur,Cadre,2,pas pratiquant,moyen,Satisfaction,0,0,0,0,0,1,1,120
+51,Homme,technique/professionnel,Profession intermediaire,3,non croyant,moyen,Satisfaction,0,0,0,0,1,0,0,84
+39,Femme,superieur,Employe,1,pas pratiquant,moyen,Satisfaction,0,0,0,0,1,0,0,120
+52,Homme,primaire,Profession intermediaire,0,non croyant,peu,Satisfaction,0,0,0,0,0,0,0,120
+34,Femme,superieur,Profession intermediaire,2,pratiquant,peu,Satisfaction,0,0,0,1,1,1,0,120
+44,Femme,primaire,Employe,2,pas pratiquant,tres,Insatisfaction,0,0,0,1,0,0,0,120
+49,Femme,primaire,Ouvrier,3,pas pratiquant,peu,Insatisfaction,0,0,0,0,0,1,0,180
+18,Femme,primaire,Employe,1,non croyant,peu,Equilibre,0,0,1,1,1,1,1,300
+42,Homme,superieur,Profession intermediaire,0,pas pratiquant,peu,Satisfaction,0,0,0,0,0,1,0,60
+42,Femme,superieur,Cadre,8,non croyant,moyen,Satisfaction,0,0,0,1,1,1,1,120
+45,Homme,technique/professionnel,Employe,2,non croyant,moyen,Equilibre,0,0,0,1,1,1,0,24
+45,Homme,technique/professionnel,Profession intermediaire,2,pas pratiquant,peu,Satisfaction,0,0,0,0,0,0,0,180
+47,Femme,primaire,Ouvrier,8,pas pratiquant,peu,Equilibre,0,0,0,0,0,0,0,120
+55,Femme,technique/professionnel,Employe,4,pratiquant,peu,Satisfaction,0,0,0,1,0,1,0,120
+37,Femme,superieur,Employe,1,pas pratiquant,moyen,Equilibre,0,0,0,1,1,1,1,42
+40,Femme,secondaire,Ouvrier,1,pas pratiquant,peu,Equilibre,0,0,0,1,0,0,0,180
+32,Homme,technique/professionnel,Ouvrier,6,pas pratiquant,peu,Satisfaction,0,0,0,1,1,1,0,120
+48,Femme,technique/professionnel,Employe,8,pratiquant,peu,Satisfaction,0,0,0,1,1,0,0,0
+26,Homme,primaire,Ouvrier,4,pratiquant,peu,Satisfaction,0,0,0,0,0,1,0,120
+51,Homme,primaire,Ouvrier,1,non croyant,tres,Equilibre,0,0,1,0,0,0,0,120
+32,Femme,superieur,Employe,1,non croyant,peu,Satisfaction,0,0,0,1,1,1,1,60
+48,Femme,primaire,Ouvrier,3,non croyant,moyen,Satisfaction,0,0,0,0,0,0,0,60
+45,Femme,technique/professionnel,Employe,7,pratiquant,peu,Equilibre,0,0,0,1,1,0,0,120
+36,Femme,technique/professionnel,Ouvrier,1,non croyant,peu,Satisfaction,0,0,0,1,1,1,0,180
+39,Homme,technique/professionnel,Profession intermediaire,4,pas pratiquant,peu,Satisfaction,0,0,0,0,1,0,0,0
+45,Homme,technique/professionnel,Ouvrier,0,pas pratiquant,peu,Equilibre,0,0,0,1,1,1,0,240
+36,Femme,superieur,Employe,2,pas pratiquant,peu,Equilibre,0,0,0,0,0,1,0,120
+32,Femme,superieur,Employe,3,pas pratiquant,moyen,Satisfaction,0,0,0,0,0,1,1,36
+43,Homme,secondaire,Cadre,2,pas pratiquant,tres,Satisfaction,0,0,0,0,1,1,1,120
+30,Homme,superieur,Cadre,2,pas pratiquant,moyen,Satisfaction,0,0,0,0,0,0,0,60
+55,Homme,primaire,Ouvrier,11,pratiquant,peu,Satisfaction,0,0,0,0,1,0,0,60
+25,Homme,secondaire,Ouvrier,2,pas pratiquant,peu,Satisfaction,0,0,0,1,1,1,0,60
+57,Femme,technique/professionnel,Employe,2,pratiquant,peu,Equilibre,0,0,0,1,0,0,1,180
+59,Homme,technique/professionnel,Ouvrier,3,pratiquant,moyen,Satisfaction,0,0,0,1,1,0,1,120
+48,Femme,primaire,Employe,8,pratiquant,peu,Equilibre,0,0,0,0,0,0,0,180
+31,Homme,technique/professionnel,Ouvrier,3,pas pratiquant,peu,Insatisfaction,0,0,0,0,1,0,1,0
+49,Homme,technique/professionnel,Employe,5,pas pratiquant,moyen,Satisfaction,0,0,1,0,1,0,0,180
+38,Homme,technique/professionnel,Ouvrier,2,pas pratiquant,peu,Equilibre,0,0,0,1,1,1,1,120
+58,Homme,technique/professionnel,Employe,1,pratiquant,moyen,Satisfaction,0,0,0,0,1,1,1,60
+39,Femme,superieur,Employe,1,pas pratiquant,moyen,Insatisfaction,0,0,0,0,1,0,0,180
+30,Femme,superieur,Employe,4,pas pratiquant,peu,Satisfaction,0,0,0,1,1,1,0,240
+30,Homme,superieur,Profession intermediaire,1,pas pratiquant,peu,Satisfaction,0,0,0,1,1,1,1,120
+39,Homme,secondaire,Profession intermediaire,0,non croyant,peu,Equilibre,0,0,0,0,1,1,1,180
+37,Homme,secondaire,Cadre,7,pas pratiquant,peu,Satisfaction,0,0,0,0,0,1,1,60
+37,Homme,technique/professionnel,Ouvrier,1,pas pratiquant,peu,Equilibre,0,0,0,0,1,1,0,180
+48,Homme,technique/professionnel,Cadre,5,pas pratiquant,moyen,Satisfaction,0,0,0,0,1,1,1,84
+51,Homme,superieur,Cadre,2,non croyant,moyen,Satisfaction,0,1,0,0,1,1,1,60
+27,Homme,primaire,Ouvrier,10,pratiquant,peu,Equilibre,0,0,0,0,0,0,0,60
+29,Homme,superieur,Profession intermediaire,1,pas pratiquant,peu,Equilibre,0,0,0,1,1,1,1,0
+52,Femme,secondaire,Profession intermediaire,4,pas pratiquant,moyen,Equilibre,0,0,0,1,0,0,0,120
+35,Homme,technique/professionnel,Ouvrier,3,pas pratiquant,moyen,Equilibre,0,0,0,0,1,0,0,180
+37,Homme,superieur,Profession intermediaire,0,pas pratiquant,peu,Insatisfaction,0,0,0,1,0,1,1,60
+44,Homme,technique/professionnel,Ouvrier,2,pas pratiquant,peu,Equilibre,0,0,1,0,1,0,0,120
+53,Homme,primaire,Ouvrier,4,pas pratiquant,moyen,Satisfaction,0,0,0,0,1,0,0,0
+55,Homme,technique/professionnel,Cadre,4,non croyant,peu,Insatisfaction,0,0,0,0,0,0,0,60
+34,Homme,technique/professionnel,Employe,3,pratiquant,moyen,Satisfaction,0,0,0,1,1,0,1,0
+36,Homme,superieur,Cadre,4,pas pratiquant,moyen,Satisfaction,0,0,0,0,0,1,1,180
+52,Femme,technique/professionnel,Employe,3,pratiquant,peu,Equilibre,0,0,0,1,1,0,1,60
+33,Femme,superieur,Cadre,1,non croyant,peu,Equilibre,0,0,0,1,1,1,1,36
+43,Homme,superieur,Cadre,0,pas pratiquant,peu,Equilibre,0,0,0,1,1,1,1,60
+57,Femme,technique/professionnel,Employe,2,pas pratiquant,peu,Satisfaction,0,0,0,1,0,0,0,60
+23,Homme,superieur,Employe,0,pas pratiquant,moyen,Satisfaction,0,0,1,1,0,1,1,6
+29,Homme,technique/professionnel,Profession intermediaire,1,pratiquant,moyen,Equilibre,0,0,0,1,1,0,1,180
+28,Homme,secondaire,Employe,8,non croyant,moyen,Insatisfaction,0,0,0,0,0,0,0,24
+36,Femme,superieur,Employe,1,non croyant,peu,Satisfaction,0,1,0,1,1,1,0,120
+45,Femme,secondaire,Employe,6,non croyant,peu,Equilibre,0,0,0,0,0,0,0,120
+50,Femme,technique/professionnel,Profession intermediaire,1,pas pratiquant,peu,Equilibre,0,0,0,0,1,1,0,120
+44,Homme,primaire,Ouvrier,5,non croyant,moyen,Equilibre,0,0,0,1,1,0,0,300
+52,Femme,technique/professionnel,Employe,4,pratiquant,peu,Equilibre,0,0,0,1,1,0,0,120
+32,Homme,primaire,Ouvrier,3,pratiquant,moyen,Satisfaction,0,0,1,0,1,1,1,120
+54,Homme,secondaire,Profession intermediaire,3,non croyant,peu,Equilibre,0,0,0,0,1,0,1,180
+30,Homme,superieur,Employe,6,pas pratiquant,peu,Equilibre,0,0,0,0,0,1,0,60
+41,Femme,superieur,Cadre,1,non croyant,peu,Satisfaction,0,0,0,1,1,0,1,0
+27,Homme,superieur,Cadre,1,pas pratiquant,moyen,Satisfaction,0,0,1,0,0,1,1,120
+48,Homme,primaire,Profession intermediaire,2,pratiquant,peu,Insatisfaction,0,0,1,1,0,1,0,120
+26,Femme,superieur,Employe,1,pratiquant,peu,Satisfaction,0,0,0,0,0,1,0,120
+29,Femme,superieur,Profession intermediaire,4,non croyant,peu,Satisfaction,0,0,0,1,1,0,1,180
+52,Femme,primaire,Employe,9,pratiquant,peu,Satisfaction,0,0,0,1,0,0,0,60
+36,Homme,technique/professionnel,Ouvrier,4,pas pratiquant,peu,Equilibre,0,0,0,0,0,0,1,60
+30,Homme,secondaire,Employe,4,pratiquant,peu,Satisfaction,0,0,0,1,1,1,0,120
+39,Femme,technique/professionnel,Employe,5,pratiquant,peu,Equilibre,0,0,0,0,0,0,0,240
+34,Femme,technique/professionnel,Employe,0,non croyant,peu,Satisfaction,0,0,0,0,0,0,1,180
+47,Homme,superieur,Cadre,1,non croyant,moyen,Satisfaction,0,0,0,0,0,1,0,120
+38,Femme,superieur,Employe,0,pratiquant,peu,Equilibre,0,0,0,0,0,1,0,120
+34,Femme,primaire,Employe,22,non croyant,peu,Satisfaction,0,0,0,1,0,1,0,120
+39,Homme,superieur,Cadre,0,pratiquant,peu,Satisfaction,0,0,1,0,0,0,1,120
+56,Homme,technique/professionnel,Profession intermediaire,0,pas pratiquant,peu,Satisfaction,0,0,0,0,1,0,1,120
+53,Femme,superieur,Cadre,1,pratiquant,peu,Equilibre,0,0,0,1,0,1,1,120
+37,Femme,technique/professionnel,Employe,2,non croyant,peu,Insatisfaction,0,0,0,0,0,1,1,0
+34,Femme,superieur,Profession intermediaire,4,pas pratiquant,peu,Equilibre,0,0,0,0,0,0,1,0
+27,Femme,superieur,Profession intermediaire,0,pas pratiquant,peu,Equilibre,0,0,0,1,1,1,0,6
+48,Homme,technique/professionnel,Ouvrier,3,pas pratiquant,peu,Satisfaction,0,0,0,0,1,1,0,180
+37,Femme,superieur,Employe,2,pas pratiquant,peu,Equilibre,0,0,0,0,0,1,0,240
+48,Homme,technique/professionnel,Profession intermediaire,2,non croyant,moyen,Satisfaction,0,0,0,0,0,0,0,0
+60,Femme,technique/professionnel,Employe,0,pratiquant,peu,Equilibre,0,0,0,0,0,0,0,180
+31,Homme,primaire,Employe,6,pratiquant,peu,Equilibre,0,0,0,0,0,0,0,240
+23,Homme,technique/professionnel,Ouvrier,2,non croyant,moyen,Insatisfaction,0,0,1,1,1,1,1,360
+52,Femme,technique/professionnel,Ouvrier,1,pratiquant,peu,Insatisfaction,0,0,0,1,0,1,1,180
+57,Homme,primaire,Employe,7,non croyant,peu,Insatisfaction,0,0,0,1,1,0,1,240
+23,Homme,technique/professionnel,Ouvrier,4,non croyant,peu,Satisfaction,0,0,0,0,1,0,0,0
+27,Femme,superieur,Employe,1,pas pratiquant,peu,Satisfaction,0,1,0,1,1,1,1,120
+44,Femme,technique/professionnel,Employe,2,non croyant,peu,Equilibre,0,0,0,0,1,1,0,180
+42,Femme,technique/professionnel,Employe,5,pratiquant,peu,Equilibre,0,0,0,1,0,1,0,120
+30,Homme,superieur,Profession intermediaire,1,pas pratiquant,peu,Equilibre,0,0,0,0,1,1,1,60
+41,Homme,superieur,Employe,2,pas pratiquant,peu,Insatisfaction,0,0,0,1,1,1,1,180
+40,Femme,superieur,Cadre,1,non croyant,peu,Equilibre,0,0,0,0,0,0,1,180
+41,Homme,technique/professionnel,Ouvrier,5,pas pratiquant,peu,Insatisfaction,0,0,0,0,1,1,1,240
+40,Femme,technique/professionnel,Employe,2,pratiquant,peu,Equilibre,0,0,0,1,0,0,0,240
+39,Homme,superieur,Cadre,2,non croyant,peu,Satisfaction,0,0,0,0,1,1,1,60
+48,Femme,technique/professionnel,Employe,3,pas pratiquant,peu,Satisfaction,0,0,1,0,0,1,0,120
+52,Femme,primaire,Ouvrier,4,non croyant,peu,Equilibre,0,0,0,1,0,0,0,180
+50,Femme,secondaire,Profession intermediaire,4,pas pratiquant,peu,Satisfaction,0,0,0,1,0,0,1,36
+20,Homme,secondaire,Ouvrier,5,pratiquant,peu,Insatisfaction,0,0,0,1,1,1,1,120
+53,Homme,superieur,Cadre,3,non croyant,moyen,Satisfaction,0,0,0,0,1,0,1,0
+23,Femme,superieur,Employe,2,non croyant,peu,Satisfaction,1,0,0,1,0,0,0,180
+44,Femme,technique/professionnel,Ouvrier,1,pratiquant,peu,Satisfaction,0,0,0,0,0,1,0,0
+35,Homme,technique/professionnel,Cadre,3,pratiquant,peu,Satisfaction,0,0,0,0,1,1,1,120
+39,Homme,superieur,Profession intermediaire,1,non croyant,peu,Satisfaction,0,0,0,0,0,0,0,102
+48,Femme,superieur,Profession intermediaire,4,pratiquant,peu,Satisfaction,0,1,0,0,0,1,1,60
+42,Femme,superieur,Cadre,2,pas pratiquant,moyen,Satisfaction,0,0,0,1,1,1,0,0
+56,Femme,technique/professionnel,Employe,3,pratiquant,peu,Equilibre,0,0,0,1,0,0,1,180
+40,Homme,secondaire,Employe,1,non croyant,peu,Satisfaction,0,0,0,0,1,1,0,120
+40,Femme,primaire,Employe,9,pratiquant,moyen,Equilibre,0,0,0,0,0,0,0,60
+58,Homme,superieur,Cadre,2,non croyant,peu,Satisfaction,0,0,1,1,1,1,1,60
+43,Homme,superieur,Cadre,2,pas pratiquant,peu,Satisfaction,0,0,0,0,1,1,0,180
+51,Femme,technique/professionnel,Employe,4,pratiquant,peu,Equilibre,0,0,0,0,1,0,0,240
+27,Homme,superieur,Ouvrier,2,pas pratiquant,peu,Satisfaction,0,0,0,0,0,0,0,120
+45,Homme,technique/professionnel,Profession intermediaire,4,pas pratiquant,moyen,Equilibre,0,0,0,1,1,1,1,60
+33,Femme,technique/professionnel,Employe,4,non croyant,peu,Satisfaction,0,0,0,1,1,0,1,42
+37,Homme,superieur,Cadre,2,non croyant,moyen,Insatisfaction,0,1,0,1,1,1,1,60
+26,Femme,primaire,Employe,4,non croyant,peu,Insatisfaction,0,0,0,0,1,1,0,60
+47,Femme,superieur,Cadre,1,pas pratiquant,peu,Satisfaction,0,0,0,0,1,1,0,60
+54,Femme,primaire,Ouvrier,6,pratiquant,peu,Satisfaction,0,0,0,1,1,0,0,120
+36,Homme,superieur,Cadre,2,non croyant,peu,Equilibre,0,0,0,0,0,1,1,120
+28,Femme,technique/professionnel,Employe,2,non croyant,moyen,Equilibre,0,0,0,1,0,0,0,180
+60,Homme,superieur,Cadre,3,pratiquant,peu,Equilibre,0,0,0,1,1,1,1,54
+43,Femme,technique/professionnel,Profession intermediaire,1,pratiquant,peu,Satisfaction,0,0,0,0,1,0,0,0
+44,Homme,technique/professionnel,Ouvrier,2,pratiquant,peu,Equilibre,0,0,0,0,0,1,0,18
+35,Femme,technique/professionnel,Employe,6,pas pratiquant,peu,Equilibre,0,0,0,1,0,1,0,180
+55,Homme,secondaire,Employe,9,non croyant,moyen,Satisfaction,0,0,1,0,1,0,0,120
+39,Homme,technique/professionnel,Ouvrier,5,non croyant,peu,Equilibre,0,0,0,0,1,0,1,60
+49,Femme,superieur,Cadre,4,non croyant,peu,Satisfaction,0,0,0,0,0,1,0,60
+45,Homme,technique/professionnel,Profession intermediaire,5,non croyant,moyen,Insatisfaction,0,0,0,1,1,0,0,120
+54,Femme,primaire,Employe,6,pratiquant,peu,Satisfaction,0,0,0,1,0,0,0,60
+52,Femme,secondaire,Profession intermediaire,3,pratiquant,moyen,Satisfaction,0,0,0,0,1,0,0,120
+36,Homme,technique/professionnel,Ouvrier,2,non croyant,peu,Satisfaction,0,0,0,0,1,0,0,0
+45,Homme,technique/professionnel,Cadre,3,pratiquant,moyen,Satisfaction,0,0,0,1,0,0,0,24
+31,Femme,technique/professionnel,Ouvrier,0,pas pratiquant,moyen,Satisfaction,0,0,0,1,1,1,1,60
+57,Femme,primaire,Ouvrier,1,pratiquant,peu,Satisfaction,0,0,0,1,0,0,0,120
+55,Homme,technique/professionnel,Ouvrier,2,non croyant,peu,Equilibre,0,0,1,0,1,0,0,120
+50,Femme,technique/professionnel,Employe,2,pas pratiquant,moyen,Insatisfaction,0,0,0,0,1,1,0,360
+49,Homme,technique/professionnel,Ouvrier,3,pratiquant,peu,Satisfaction,0,0,0,0,1,1,0,180
+52,Femme,primaire,Employe,0,pratiquant,peu,Satisfaction,0,0,0,1,0,1,1,0
+31,Homme,technique/professionnel,Ouvrier,1,pas pratiquant,peu,Satisfaction,0,0,0,1,1,0,1,120
+25,Femme,superieur,Profession intermediaire,1,pas pratiquant,peu,Satisfaction,0,0,0,0,0,0,1,120
+37,Femme,secondaire,Employe,6,pas pratiquant,peu,Satisfaction,0,0,0,1,0,1,1,18
+48,Femme,primaire,Ouvrier,8,pas pratiquant,peu,Equilibre,0,0,0,1,0,1,0,120
+47,Femme,superieur,Profession intermediaire,2,pratiquant,peu,Satisfaction,0,1,0,0,1,1,1,42
+50,Femme,primaire,Employe,4,pas pratiquant,peu,Equilibre,0,0,0,0,0,1,0,120
+38,Homme,technique/professionnel,Ouvrier,5,pratiquant,peu,Equilibre,0,0,0,0,1,0,1,240
+43,Femme,primaire,Employe,2,non croyant,moyen,Equilibre,0,0,0,0,0,0,0,60
+45,Homme,superieur,Profession intermediaire,0,pas pratiquant,peu,Equilibre,0,0,1,0,1,1,1,84
+44,Homme,primaire,Ouvrier,4,non croyant,peu,Satisfaction,0,0,0,0,0,0,1,360
+30,Femme,superieur,Employe,5,pas pratiquant,peu,Satisfaction,0,0,0,1,0,0,1,180
+25,Femme,technique/professionnel,Employe,4,pas pratiquant,peu,Insatisfaction,0,0,0,0,0,1,0,120
+47,Homme,technique/professionnel,Ouvrier,10,non croyant,moyen,Satisfaction,0,0,0,0,0,1,0,0
+28,Femme,superieur,Profession intermediaire,1,pas pratiquant,peu,Satisfaction,0,0,0,1,0,1,1,120
+43,Homme,secondaire,Profession intermediaire,5,pas pratiquant,moyen,Equilibre,0,0,0,0,1,1,1,180
+51,Femme,primaire,Ouvrier,7,pas pratiquant,peu,Satisfaction,0,0,0,1,0,0,0,120
+41,Femme,technique/professionnel,Employe,3,pratiquant,peu,Satisfaction,0,0,0,1,0,1,1,120
+54,Femme,superieur,Cadre,2,non croyant,peu,Insatisfaction,0,1,0,0,1,1,1,120
+41,Femme,superieur,Employe,3,pas pratiquant,peu,Equilibre,0,0,0,1,0,1,0,60
+52,Homme,primaire,Ouvrier,0,non croyant,peu,Satisfaction,0,0,0,0,1,0,0,0
+44,Femme,superieur,Profession intermediaire,4,non croyant,peu,Satisfaction,0,0,0,0,0,0,1,0
+45,Homme,superieur,Profession intermediaire,2,pas pratiquant,peu,Equilibre,0,0,0,0,1,1,0,120
+36,Femme,technique/professionnel,Employe,6,pratiquant,peu,Satisfaction,0,0,1,1,1,0,0,180
+46,Homme,technique/professionnel,Profession intermediaire,1,non croyant,peu,Equilibre,0,0,1,1,1,1,1,36
+29,Femme,primaire,Ouvrier,3,pas pratiquant,tres,Satisfaction,0,0,0,1,1,1,1,0
+45,Femme,primaire,Employe,8,pratiquant,peu,Satisfaction,0,0,0,0,0,0,0,60
+30,Homme,technique/professionnel,Ouvrier,2,pratiquant,peu,Equilibre,0,0,0,0,1,0,0,120
+55,Femme,primaire,Employe,1,pratiquant,moyen,Satisfaction,0,0,0,1,0,1,0,60
+54,Homme,primaire,Ouvrier,1,pas pratiquant,peu,Equilibre,0,0,0,1,1,0,1,120
+25,Homme,technique/professionnel,Employe,2,pas pratiquant,peu,Equilibre,0,0,0,1,0,1,1,120
+42,Homme,superieur,Profession intermediaire,3,pas pratiquant,moyen,Satisfaction,0,0,0,0,1,1,1,60
+51,Femme,technique/professionnel,Employe,2,non croyant,moyen,Equilibre,0,0,0,1,1,0,0,180
+52,Homme,primaire,Ouvrier,2,pratiquant,peu,Insatisfaction,0,0,0,1,1,0,1,180
+39,Femme,superieur,Cadre,0,pratiquant,peu,Satisfaction,0,0,0,1,0,1,1,18
+48,Homme,technique/professionnel,Profession intermediaire,2,pas pratiquant,peu,Equilibre,0,0,1,1,1,0,0,120
+40,Homme,technique/professionnel,Ouvrier,5,pratiquant,peu,Equilibre,0,0,0,1,1,1,0,240
+49,Femme,technique/professionnel,Profession intermediaire,0,pas pratiquant,peu,Insatisfaction,0,0,0,1,1,1,0,120
+30,Homme,superieur,Cadre,1,pas pratiquant,moyen,Equilibre,0,0,0,0,0,1,1,180
+32,Femme,superieur,Cadre,1,pratiquant,moyen,Satisfaction,0,0,0,0,0,1,0,60
+39,Homme,primaire,Ouvrier,3,pas pratiquant,peu,Equilibre,0,0,0,0,0,0,0,480
+43,Homme,technique/professionnel,Profession intermediaire,7,non croyant,peu,Equilibre,0,0,0,1,1,1,1,60
+31,Femme,technique/professionnel,Employe,7,pas pratiquant,peu,Equilibre,0,0,0,0,0,1,0,180
+51,Femme,primaire,Ouvrier,12,pas pratiquant,tres,Satisfaction,0,0,0,0,0,0,0,60
+34,Femme,secondaire,Employe,1,pas pratiquant,peu,Equilibre,0,0,0,0,0,1,0,60
+29,Homme,technique/professionnel,Ouvrier,2,pas pratiquant,peu,Equilibre,0,0,0,1,0,1,1,180
+33,Femme,superieur,Employe,1,pratiquant,peu,Insatisfaction,0,0,0,1,1,0,1,0
+44,Femme,secondaire,Profession intermediaire,2,pas pratiquant,peu,Equilibre,0,0,0,0,0,1,0,300
+57,Homme,technique/professionnel,Cadre,3,non croyant,moyen,Satisfaction,0,0,0,1,1,0,0,120
+54,Femme,primaire,Employe,2,pratiquant,peu,Insatisfaction,0,1,0,1,0,0,0,120
+55,Femme,primaire,Employe,2,pas pratiquant,peu,Equilibre,0,0,0,0,0,1,0,240
+54,Homme,primaire,Profession intermediaire,5,pratiquant,peu,Equilibre,0,1,0,0,1,0,1,240
+37,Femme,secondaire,Employe,2,non croyant,peu,Equilibre,0,0,0,1,1,1,0,120
+39,Femme,technique/professionnel,Employe,6,non croyant,peu,Satisfaction,0,0,0,1,1,1,1,0
+48,Femme,technique/professionnel,Employe,1,pas pratiquant,moyen,Satisfaction,0,0,0,1,0,0,0,120
+44,Femme,technique/professionnel,Employe,6,pas pratiquant,peu,Satisfaction,0,0,0,1,0,1,0,24
+46,Homme,superieur,Profession intermediaire,0,pratiquant,peu,Equilibre,0,0,0,0,1,1,0,120
+54,Homme,technique/professionnel,Profession intermediaire,1,non croyant,peu,Insatisfaction,0,0,0,0,1,0,0,180
+54,Femme,technique/professionnel,Employe,5,pratiquant,peu,Equilibre,0,0,1,1,0,1,0,180
+30,Femme,superieur,Profession intermediaire,3,pas pratiquant,peu,Satisfaction,0,0,0,1,1,0,1,54
+57,Homme,superieur,Profession intermediaire,5,pas pratiquant,peu,Equilibre,0,0,0,0,1,1,0,240
+27,Femme,superieur,Employe,2,pas pratiquant,moyen,Satisfaction,0,0,0,0,0,0,0,120
+44,Femme,technique/professionnel,Employe,2,pas pratiquant,peu,Satisfaction,0,0,0,0,0,1,0,120
+33,Homme,technique/professionnel,Ouvrier,2,pratiquant,moyen,Satisfaction,0,0,1,1,1,0,1,180
+22,Femme,technique/professionnel,Employe,5,non croyant,peu,Equilibre,0,0,0,1,0,1,1,120
+29,Homme,primaire,Employe,4,non croyant,moyen,Equilibre,0,0,1,1,1,1,1,120
+53,Homme,primaire,Profession intermediaire,2,pas pratiquant,moyen,Satisfaction,0,0,0,0,1,0,1,60
+50,Femme,secondaire,Employe,7,pas pratiquant,peu,Equilibre,0,0,0,0,0,1,1,36
+53,Femme,technique/professionnel,Profession intermediaire,2,pratiquant,peu,Satisfaction,0,0,0,0,0,1,1,60
+33,Homme,technique/professionnel,Employe,3,non croyant,peu,Equilibre,0,0,0,0,1,0,0,174
+49,Homme,technique/professionnel,Employe,9,non croyant,tres,Equilibre,0,0,1,0,1,1,0,240
+46,Homme,secondaire,Profession intermediaire,1,pas pratiquant,peu,Satisfaction,0,1,0,0,1,0,0,0
+51,Homme,primaire,Profession intermediaire,3,pas pratiquant,peu,Insatisfaction,0,0,0,1,0,1,0,60
+54,Homme,superieur,Cadre,4,non croyant,moyen,Satisfaction,0,0,0,0,1,1,0,60
+48,Femme,technique/professionnel,Employe,1,pas pratiquant,peu,Satisfaction,0,1,0,1,0,0,0,126
+34,Femme,superieur,Employe,1,pas pratiquant,peu,Satisfaction,0,0,0,0,1,1,0,120
+33,Homme,superieur,Cadre,4,non croyant,moyen,Satisfaction,0,0,0,1,1,0,1,120
+45,Femme,secondaire,Cadre,3,pas pratiquant,peu,Equilibre,0,1,0,1,1,1,0,60
+48,Homme,technique/professionnel,Ouvrier,4,pratiquant,peu,Insatisfaction,0,0,0,1,1,0,0,36
+41,Femme,technique/professionnel,Employe,4,pratiquant,peu,Satisfaction,0,0,0,0,0,0,0,120
+56,Femme,primaire,Employe,2,pratiquant,peu,Satisfaction,0,0,1,1,1,0,0,60
+48,Femme,primaire,Employe,8,pratiquant,peu,Equilibre,0,0,0,0,0,0,0,180
+50,Femme,secondaire,Ouvrier,4,pratiquant,peu,Equilibre,0,0,0,0,0,1,0,0
+48,Homme,superieur,Cadre,2,pas pratiquant,moyen,Satisfaction,0,0,0,1,0,1,0,180
+47,Homme,technique/professionnel,Ouvrier,3,pas pratiquant,peu,Satisfaction,0,0,1,0,1,0,1,60
+47,Homme,secondaire,Employe,3,non croyant,peu,Equilibre,0,0,0,0,0,0,0,60
+50,Femme,technique/professionnel,Ouvrier,2,pas pratiquant,peu,Insatisfaction,0,0,0,1,0,1,0,120
+43,Femme,superieur,Employe,2,pas pratiquant,peu,Satisfaction,0,0,1,1,0,0,1,180
+53,Femme,technique/professionnel,Employe,0,pas pratiquant,moyen,Equilibre,0,0,0,1,1,1,1,60
+43,Femme,superieur,Employe,4,non croyant,peu,Equilibre,0,0,0,0,1,1,1,120
+28,Femme,technique/professionnel,Employe,0,pas pratiquant,peu,Equilibre,0,0,0,1,0,1,1,240
+44,Homme,primaire,Ouvrier,10,pratiquant,peu,Equilibre,0,0,0,1,0,0,0,120
+22,Homme,technique/professionnel,Ouvrier,1,non croyant,peu,Satisfaction,0,0,0,0,0,1,0,120
+51,Homme,primaire,Ouvrier,7,non croyant,moyen,Equilibre,0,0,0,1,1,0,0,180
+24,Femme,primaire,Ouvrier,2,pas pratiquant,peu,Equilibre,0,0,0,1,0,1,0,174
+40,Femme,superieur,Cadre,1,pas pratiquant,peu,Equilibre,0,0,0,1,1,1,1,6
+36,Homme,technique/professionnel,Ouvrier,4,non croyant,peu,Equilibre,0,0,0,0,1,1,0,300
+38,Femme,primaire,Ouvrier,5,pratiquant,peu,Equilibre,0,0,0,1,0,0,0,300
+51,Femme,primaire,Employe,3,non croyant,peu,Equilibre,0,0,0,1,0,0,0,120
+49,Homme,superieur,Cadre,3,pratiquant,peu,Equilibre,0,0,0,1,1,1,1,60
+55,Homme,technique/professionnel,Ouvrier,5,pas pratiquant,moyen,Satisfaction,0,0,1,0,0,0,0,180
+31,Homme,technique/professionnel,Profession intermediaire,2,pratiquant,peu,Satisfaction,0,0,0,1,1,0,1,120
+48,Femme,superieur,Profession intermediaire,4,pas pratiquant,moyen,Satisfaction,0,0,0,0,1,0,1,0
+28,Femme,superieur,Profession intermediaire,0,pas pratiquant,peu,Satisfaction,0,0,0,1,1,1,1,120
+29,Femme,primaire,Employe,2,pas pratiquant,peu,Equilibre,0,0,0,0,0,0,0,360
+47,Homme,technique/professionnel,Employe,5,non croyant,moyen,Satisfaction,0,0,0,0,1,1,1,24
+30,Homme,technique/professionnel,Ouvrier,6,non croyant,peu,Satisfaction,0,0,1,0,1,1,0,180
+44,Homme,technique/professionnel,Ouvrier,7,non croyant,peu,Insatisfaction,0,0,0,0,1,0,0,120
+23,Homme,superieur,Employe,4,pas pratiquant,peu,Insatisfaction,0,0,0,1,1,1,1,120
+43,Femme,technique/professionnel,Employe,3,pas pratiquant,moyen,Satisfaction,0,0,0,0,1,1,0,120
+39,Homme,superieur,Cadre,0,pas pratiquant,peu,Satisfaction,0,0,0,0,1,0,1,180
+54,Femme,superieur,Employe,3,pas pratiquant,moyen,Equilibre,0,0,0,0,1,0,0,0
+56,Homme,primaire,Ouvrier,10,pas pratiquant,peu,Satisfaction,0,0,1,0,1,1,0,180
+56,Homme,secondaire,Profession intermediaire,1,pas pratiquant,peu,Satisfaction,0,0,0,1,1,0,1,102
+22,Homme,superieur,Profession intermediaire,1,non croyant,peu,Satisfaction,0,0,0,0,1,1,1,180
+33,Femme,superieur,Employe,2,pratiquant,peu,Satisfaction,0,0,0,1,1,0,0,24
+52,Femme,primaire,Employe,7,non croyant,peu,Equilibre,0,0,0,0,0,0,0,180
+61,Femme,secondaire,Cadre,2,pas pratiquant,peu,Satisfaction,0,0,0,1,0,1,1,60
+53,Femme,primaire,Ouvrier,3,pratiquant,peu,Insatisfaction,0,0,0,1,0,0,0,180
+26,Femme,superieur,Profession intermediaire,1,pratiquant,peu,Satisfaction,0,0,0,0,1,1,1,180
+52,Homme,technique/professionnel,Profession intermediaire,4,pas pratiquant,moyen,Satisfaction,0,0,0,1,1,1,0,60
+40,Femme,secondaire,Ouvrier,8,pas pratiquant,peu,Insatisfaction,0,0,0,1,1,1,1,0
+38,Homme,superieur,Cadre,4,pratiquant,peu,Satisfaction,0,1,0,1,1,1,1,120
+27,Homme,superieur,Profession intermediaire,0,non croyant,peu,Equilibre,0,0,1,1,1,0,1,120
+49,Homme,technique/professionnel,Ouvrier,4,non croyant,peu,Equilibre,0,0,0,0,0,0,0,120
+49,Femme,secondaire,Employe,11,non croyant,peu,Satisfaction,0,0,0,1,1,1,1,60
+52,Femme,primaire,Employe,10,pratiquant,peu,Equilibre,0,0,0,1,1,1,0,84
+41,Homme,superieur,Profession intermediaire,7,pratiquant,peu,Satisfaction,0,1,0,1,1,1,1,6
+45,Homme,technique/professionnel,Profession intermediaire,3,non croyant,peu,Equilibre,0,0,0,0,1,0,0,180
+46,Homme,technique/professionnel,Ouvrier,4,pratiquant,tres,Equilibre,0,0,1,1,1,0,0,0
+24,Homme,technique/professionnel,Profession intermediaire,1,non croyant,peu,Satisfaction,0,0,0,0,1,1,1,84
+24,Femme,technique/professionnel,Employe,2,pas pratiquant,peu,Equilibre,0,0,0,0,0,1,0,18
